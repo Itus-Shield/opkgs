@@ -1,0 +1,937 @@
+Package: ahcpd
+Version: 0.53-3
+Depends: libc, ip, librt
+Source: feeds/routing/ahcpd
+SourceName: ahcpd
+License: MIT
+LicenseFiles: LICENCE
+Section: net
+Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
+Architecture: mips64_octeon3
+Installed-Size: 24839
+Filename: ahcpd_0.53-3_mips64_octeon3.ipk
+Size: 25624
+SHA256sum: 0ff44d9c1a52fa4662a4c2da7822bffbd22d0692d59f1f043cf7776d3dad1a8a
+Description:  Ahcpd is a daemon for configuring an IPv6 network using the Ad-Hoc
+ Configuration Protocol (AHCP).  AHCP is designed for wireless mesh
+ networks, where IPv6 autoconfiguration and DHCPv6 do not work, but may
+ also be used on wired networks.
+
+Package: alfred
+Version: 2020.2-2
+Depends: libc, libnl-tiny, librt
+Source: feeds/routing/alfred
+SourceName: alfred
+License: GPL-2.0-only MIT
+LicenseFiles: LICENSES/preferred/GPL-2.0 LICENSES/preferred/MIT
+Section: net
+Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
+Architecture: mips64_octeon3
+Installed-Size: 28566
+Filename: alfred_2020.2-2_mips64_octeon3.ipk
+Size: 29746
+SHA256sum: cc0b88eebd0b72c6a4a0059fb86d2d4ba1987251ba8206d7c348fd64cabfd488
+Description:  alfred is a user space daemon for distributing arbitrary local information
+ over the mesh/network in a decentralized fashion. This data can be anything
+ which appears to be useful - originally designed to replace the batman-adv
+ visualization (vis), you may distribute hostnames, phone books, administration
+ information, DNS information, the local weather forecast ...
+ 
+ alfred runs as daemon in the background of the system. A user may insert
+ information by using the alfred binary on the command line, or use special
+ programs to communicate with alfred (done via unix sockets). alfred then takes
+ care of distributing the local information to other alfred servers on other
+ nodes. This is done via IPv6 link-local multicast, and does not require any
+ configuration. A user can request data from alfred, and will receive the
+ information available from all alfred servers in the network.
+
+Package: babel-pinger
+Version: 0.1-1
+Depends: libc, librt
+Source: feeds/routing/babel-pinger
+SourceName: babel-pinger
+Section: net
+Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
+Architecture: mips64_octeon3
+Installed-Size: 4285
+Filename: babel-pinger_0.1-1_mips64_octeon3.ipk
+Size: 5074
+SHA256sum: 368aaa4f6120bf22466a7a5307e803cc610fc8177cb7a4e95af86a103a76e696
+Description:  Babel-pinger is a hack to export a default route into Babel for people
+ using DHCP to configure their routers rather than speaking to their
+ upstream provider with a proper routing protocol.
+
+Package: babeld
+Version: 1.9.2-1
+Depends: libc
+Source: feeds/routing/babeld
+SourceName: babeld
+License: MIT
+LicenseFiles: LICENCE
+Section: net
+Maintainer: Gabriel Kerneis <gabriel@kerneis.info>, Baptiste Jonglez <openwrt-pkg@bitsofnetworks.org>
+Architecture: mips64_octeon3
+Installed-Size: 65733
+Filename: babeld_1.9.2-1_mips64_octeon3.ipk
+Size: 66777
+SHA256sum: d036f1a2e08cd11b0217137fdc6446f8998b8315cef704f0419ebb312bb972c0
+Description:  Babel is a loop-avoiding distance-vector routing protocol for IPv6 and IPv4
+ with fast convergence properties. It is based on the ideas in DSDV, AODV and
+ Cisco's EIGRP, but is designed to work well not only in wired networks but
+ also in wireless mesh networks, and has been extended with support for
+ overlay networks. Babel is in the process of becoming an IETF Standard.
+
+Package: batctl-default
+Version: 2020.2-1
+Depends: libc, libnl-tiny, librt
+Provides: batctl
+Alternatives: 200:/usr/sbin/batctl:/usr/libexec/batctl-default
+Source: feeds/routing/batctl
+SourceName: batctl-default
+License: GPL-2.0-only ISC MIT
+LicenseFiles: LICENSES/preferred/GPL-2.0 LICENSES/preferred/MIT LICENSES/deprecated/ISC
+Section: net
+Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
+Architecture: mips64_octeon3
+Installed-Size: 43856
+Filename: batctl-default_2020.2-1_mips64_octeon3.ipk
+Size: 44764
+SHA256sum: 61487213fef32af69e6b92374396b908a9bfc5905fdfa512814ec894512dc7e2
+Description:  batctl is a more intuitive managment utility for B.A.T.M.A.N.-Advanced.
+ It is an easier method for configuring batman-adv and provides some
+ additional tools for debugging as well. This package builds
+ version 2020.2 of the user space utility.
+ Standard subcommands for configuration and online debugging are enabled.
+
+Package: batctl-full
+Version: 2020.2-1
+Depends: libc, libnl-tiny, librt
+Provides: batctl
+Alternatives: 300:/usr/sbin/batctl:/usr/libexec/batctl-full
+Source: feeds/routing/batctl
+SourceName: batctl-full
+License: GPL-2.0-only ISC MIT
+LicenseFiles: LICENSES/preferred/GPL-2.0 LICENSES/preferred/MIT LICENSES/deprecated/ISC
+Section: net
+Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
+Architecture: mips64_octeon3
+Installed-Size: 51241
+Filename: batctl-full_2020.2-1_mips64_octeon3.ipk
+Size: 52259
+SHA256sum: 7fc355a486f8ee22b97684c43aa586eeb616e53f7070aa8872eb669ad6eb95df
+Description:  batctl is a more intuitive managment utility for B.A.T.M.A.N.-Advanced.
+ It is an easier method for configuring batman-adv and provides some
+ additional tools for debugging as well. This package builds
+ version 2020.2 of the user space utility.
+ Subcommands for configuration, online and offline debugging are enabled.
+
+Package: batctl-tiny
+Version: 2020.2-1
+Depends: libc, libnl-tiny, librt
+Provides: batctl
+Alternatives: 100:/usr/sbin/batctl:/usr/libexec/batctl-tiny
+Source: feeds/routing/batctl
+SourceName: batctl-tiny
+License: GPL-2.0-only ISC MIT
+LicenseFiles: LICENSES/preferred/GPL-2.0 LICENSES/preferred/MIT LICENSES/deprecated/ISC
+Section: net
+Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
+Architecture: mips64_octeon3
+Installed-Size: 16773
+Filename: batctl-tiny_2020.2-1_mips64_octeon3.ipk
+Size: 17767
+SHA256sum: 4ae593a84fb03ce3571716942fac473098a4ce093269360e77c83db4577c0e72
+Description:  batctl is a more intuitive managment utility for B.A.T.M.A.N.-Advanced.
+ It is an easier method for configuring batman-adv and provides some
+ additional tools for debugging as well. This package builds
+ version 2020.2 of the user space utility.
+ Only configuration relevant subcommands are enabled.
+
+Package: batmand
+Version: 1440-1
+Depends: libc, libpthread, kmod-tun
+Source: feeds/routing/batmand
+SourceName: batmand
+License: GPL-2.0
+Section: net
+Maintainer: Corinna "Elektra" Aichele <onelektra@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 43108
+Filename: batmand_1440-1_mips64_octeon3.ipk
+Size: 43811
+SHA256sum: edfcb6a6157eea6412bf5f5b12696c94ca4282f4053e402560cdbc2d94929f47
+Description:  B.A.T.M.A.N. layer 3 routing daemon
+
+Package: bird1-ipv4-uci
+Version: 0.3-1
+Depends: libc, bird1-ipv4, libuci20130104, uci
+Source: feeds/routing/bird1-openwrt/bird1-ipv4-openwrt
+SourceName: bird1-ipv4-uci
+License: GPL-3.0+
+Section: net
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: mips64_octeon3
+Installed-Size: 6742
+Filename: bird1-ipv4-uci_0.3-1_mips64_octeon3.ipk
+Size: 7731
+SHA256sum: fbb9ac89f351b93f48c0ed3c995b1720469b1a75e0fc3b72088867fec8601a34
+Description:  bird1-ipv4 UCI integration module
+
+Package: bird1-ipv6-uci
+Version: 0.3-1
+Depends: libc, bird1-ipv6, libuci20130104, uci
+Source: feeds/routing/bird1-openwrt/bird1-ipv6-openwrt
+SourceName: bird1-ipv6-uci
+License: GPL-3.0+
+Section: net
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: mips64_octeon3
+Installed-Size: 5902
+Filename: bird1-ipv6-uci_0.3-1_mips64_octeon3.ipk
+Size: 6833
+SHA256sum: e609bb4661f0f07436c2000cfdd0572d6c0527e1a419e9652f5b3ac722c6abf4
+Description:  bird1-ipv6 UCI integration module
+
+Package: bmx6-json
+Version: r2018051214-1
+Depends: libc, bmx6, libjson-c5
+Source: feeds/routing/bmx6
+SourceName: bmx6-json
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: mips64_octeon3
+Installed-Size: 6485
+Filename: bmx6-json_r2018051214-1_mips64_octeon3.ipk
+Size: 7206
+SHA256sum: b6c466e336731195b728e97c67c0e2c20baa2aca6e831e007f89ec3bf34e0879
+Description:  json plugin based on json-c
+
+Package: bmx6-sms
+Version: r2018051214-1
+Depends: libc, bmx6
+Source: feeds/routing/bmx6
+SourceName: bmx6-sms
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: mips64_octeon3
+Installed-Size: 5280
+Filename: bmx6-sms_r2018051214-1_mips64_octeon3.ipk
+Size: 5976
+SHA256sum: 3309da181851debd2485020d5bc3d54dca91ca5903ffd6580042e459e76ebbd4
+Description:  sms plugin
+
+Package: bmx6-table
+Version: r2018051214-1
+Depends: libc, bmx6
+Source: feeds/routing/bmx6
+SourceName: bmx6-table
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: mips64_octeon3
+Installed-Size: 8678
+Filename: bmx6-table_r2018051214-1_mips64_octeon3.ipk
+Size: 9434
+SHA256sum: 50dbd33a4e0907c24149373f6341716713210a02b731488f0b8042234b0976eb
+Description:  bmx6 table plugin to automatic announce routing-table routes via ip6ip tunnels
+
+Package: bmx6-uci-config
+Version: r2018051214-1
+Depends: libc, bmx6, libuci20130104
+Source: feeds/routing/bmx6
+SourceName: bmx6-uci-config
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: mips64_octeon3
+Installed-Size: 8602
+Filename: bmx6-uci-config_r2018051214-1_mips64_octeon3.ipk
+Size: 9417
+SHA256sum: b5441adfe597e29192402e2bd62ada62d303f63161f4fa6fe5c38a2f2a983c71
+Description:  configuration plugin based on uci (recommended!)
+
+Package: bmx6
+Version: r2018051214-1
+Depends: libc, kmod-ip6-tunnel, kmod-iptunnel6, kmod-tun
+Source: feeds/routing/bmx6
+SourceName: bmx6
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: mips64_octeon3
+Installed-Size: 132551
+Filename: bmx6_r2018051214-1_mips64_octeon3.ipk
+Size: 133266
+SHA256sum: 3a42a168e2dc9c7b54306d9becbbc0a38622087c83b76c4559d04a35cccb09df
+Description:  BMX6 layer 3 routing daemon supporting IPv4, IPv6, and IPv4 over IPv6
+
+Package: hnet-full-l2tp
+Version: 2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2
+Depends: libc, hnetd-nossl, luci-app-hnet, ip-full, kmod-l2tp-eth, babeld, ohybridproxy, zonestitcher, miniupnpd, minimalist-pcproxy
+Source: feeds/routing/hnetd
+SourceName: hnet-full-l2tp
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 550
+Filename: hnet-full-l2tp_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeon3.ipk
+Size: 1403
+SHA256sum: fcc490128676d9a0b16904a08be720ebd426f6b71e7c4840ae531b83f96cadbf
+Description:  HNCP Homenet metapackage (w/ L2TP)
+
+Package: hnet-full-secure
+Version: 2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2
+Depends: libc, hnetd-openssl, luci-app-hnet, ip, babeld, ohybridproxy, zonestitcher, miniupnpd, minimalist-pcproxy
+Source: feeds/routing/hnetd
+SourceName: hnet-full-secure
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 105
+Filename: hnet-full-secure_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeon3.ipk
+Size: 945
+SHA256sum: 7727cb629cb7793233f6af11dca9ab086a3e71f8240fe74565cf398b4eedf680
+Description:  HNCP Homenet metapackage (w/ SSL)
+
+Package: hnet-full
+Version: 2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2
+Depends: libc, hnetd-nossl, luci-app-hnet, ip, babeld, ohybridproxy, zonestitcher, miniupnpd, minimalist-pcproxy
+Source: feeds/routing/hnetd
+SourceName: hnet-full
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 105
+Filename: hnet-full_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeon3.ipk
+Size: 924
+SHA256sum: 08bcc662d190e2408b99ad2fea80ad4496f840a242972efc6f671abec6dea19a
+Description:  HNCP Homenet metapackage
+
+Package: hnetd-nossl
+Version: 2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2
+Depends: libc, odhcpd, odhcp6c, netifd
+Source: feeds/routing/hnetd
+SourceName: hnetd-nossl
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 107137
+Filename: hnetd-nossl_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeon3.ipk
+Size: 107975
+SHA256sum: fb884fd8b4dcc29fafd28019c2bbc0e4d775137b036a076a9976d5b770c186f5
+Description:  This package provides a daemon which implementats distributed prefix assignment
+ and service discovery for a home network consisting of multiple routers
+ connected to multiple service providers. It provides a netifd protocol "hnet"
+ for use in /etc/config/network.
+
+Package: hnetd-openssl
+Version: 2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2
+Depends: libc, odhcpd, odhcp6c, netifd, libopenssl1.1
+Source: feeds/routing/hnetd
+SourceName: hnetd-openssl
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 119120
+Filename: hnetd-openssl_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeon3.ipk
+Size: 119931
+SHA256sum: fb385112ba18b0b3603b1c5b7d108b85495e638076155f766d8329f49368c75c
+Description:  This package provides a daemon which implementats distributed prefix assignment
+ and service discovery for a home network consisting of multiple routers
+ connected to multiple service providers. It provides a netifd protocol "hnet"
+ for use in /etc/config/network.
+
+Package: luci-app-bird1-ipv4
+Version: 0.3-1
+Depends: libc, bird1-ipv4-uci, luci-base
+Source: feeds/routing/bird1-openwrt/bird1-ipv4-openwrt
+SourceName: luci-app-bird1-ipv4
+License: GPL-3.0+
+Section: luci
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: mips64_octeon3
+Installed-Size: 7432
+Filename: luci-app-bird1-ipv4_0.3-1_mips64_octeon3.ipk
+Size: 8232
+SHA256sum: aa3c2b66e49d35ab183094555c95e36b454ac2ca6522458af4dfafefcbfdc79f
+Description:  bird4 application for LuCI
+
+Package: luci-app-bird1-ipv6
+Version: 0.3-1
+Depends: libc, bird1-ipv6-uci, luci-base
+Source: feeds/routing/bird1-openwrt/bird1-ipv6-openwrt
+SourceName: luci-app-bird1-ipv6
+License: GPL-3.0+
+Section: luci
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: mips64_octeon3
+Installed-Size: 7476
+Filename: luci-app-bird1-ipv6_0.3-1_mips64_octeon3.ipk
+Size: 8270
+SHA256sum: e0589479ee6e8483fe686685a2cc8a19cbf3f0683ed2a632fd63ce7d0fe5ea93
+Description:  bird6 application for LuCI
+
+Package: luci-app-bmx6
+Version: 6
+Depends: libc, luci-lib-json, luci-base, luci-lib-httpclient, bmx6, luci-lib-jquery-1-4, luci-lib-dracula
+Source: feeds/routing/luci-app-bmx6
+SourceName: luci-app-bmx6
+License: GPL-2.0+
+Section: luci
+Maintainer: Pau Escrich <p4u@dabax.net>
+Architecture: mips64_octeon3
+Installed-Size: 30315
+Filename: luci-app-bmx6_6_mips64_octeon3.ipk
+Size: 31131
+SHA256sum: 1fc777eed40bf9b1be1672bc876da2ab6211bcfdc94797f855b3d34858476d11
+Description:  bmx6 web application (status and configuration) for LuCi web interface
+
+Package: luci-app-cjdns
+Version: 1.3-8
+Depends: libc, cjdns, luci-compat, luci-base
+Source: feeds/routing/luci-app-cjdns
+SourceName: luci-app-cjdns
+License: GPL-3.0-or-later
+Section: luci
+Maintainer: William Fleurant <meshnet@protonmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 5613
+Filename: luci-app-cjdns_1.3-8_mips64_octeon3.ipk
+Size: 6506
+SHA256sum: e45bdbf3c3e966bdfa9f04c8a0598051c924a7b7d739e1b9270dedd23e5415d7
+Description:  Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. This provides near-zero-configuration networking, and prevents many of the security and scalability issues that plague existing networks.
+
+Package: luci-app-hnet
+Version: 2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2
+Depends: libc
+Source: feeds/routing/hnetd
+SourceName: luci-app-hnet
+License: GPL-2.0
+Section: luci
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 56783
+Filename: luci-app-hnet_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeon3.ipk
+Size: 57633
+SHA256sum: 2608adda27f2f2573119a24b2c45ac3cfef04f2a12217dee194e547010584d6a
+Description:  HNCP Homenet configuration and visualization
+
+Package: luci-lib-dracula
+Version: 6
+Depends: libc
+Source: feeds/routing/luci-app-bmx6
+SourceName: luci-lib-dracula
+License: GPL-2.0+
+Section: luci
+Maintainer: Pau Escrich <p4u@dabax.net>
+Architecture: mips64_octeon3
+Installed-Size: 23286
+Filename: luci-lib-dracula_6_mips64_octeon3.ipk
+Size: 23997
+SHA256sum: fea9786440155a4a27fd60bf1c20fea51867be9ab99db58d6a34086de9594f3a
+Description:  dracula graph javascript library
+
+Package: luci-lib-jquery-1-4
+Version: 6
+Depends: libc
+Source: feeds/routing/luci-app-bmx6
+SourceName: luci-lib-jquery-1-4
+License: GPL-2.0+
+Section: luci
+Maintainer: Gui Iribarren <gui@altermundi.net>
+Architecture: mips64_octeon3
+Installed-Size: 24823
+Filename: luci-lib-jquery-1-4_6_mips64_octeon3.ipk
+Size: 25553
+SHA256sum: f2ac94ae8adb3252689b48b3281217ab0c7f6f37ec79eec3b86b4ee93dc293df
+Description:  minified javascript jQuery 1.4 library
+
+Package: mcproxy
+Version: 2017-08-24-93b5ace42268160ebbfff4c61818fb15fa2d9b99-2
+Depends: libc, libpthread, libstdcpp6
+Source: feeds/routing/mcproxy
+SourceName: mcproxy
+License: GPL-2.0+
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 136312
+Filename: mcproxy_2017-08-24-93b5ace42268160ebbfff4c61818fb15fa2d9b99-2_mips64_octeon3.ipk
+Size: 137107
+SHA256sum: e13509805cc3d26b0d6147801d73e6c17695ee35354fe58e2764001c1c0d1832
+Description:  mcproxy is a free & open source implementation of the IGMP/MLD proxy function (see  RFC 4605) for Linux systems.
+ It operates on the kernel tables for multicast routing and allows for multiple instantiations,
+ as well as dynamically changing downstream interfaces.
+
+Package: minimalist-pcproxy
+Version: 2015-01-12-2d6d1b0b0a3b79a9b4a9b0a7606a84600a967bcb-1
+Depends: libc, libubox20191228
+Source: feeds/routing/minimalist-pcproxy
+SourceName: minimalist-pcproxy
+License: GPL-2.0
+Section: net
+Maintainer: Markus Stenberg <fingon@iki.fi>
+Architecture: mips64_octeon3
+Installed-Size: 7414
+Filename: minimalist-pcproxy_2015-01-12-2d6d1b0b0a3b79a9b4a9b0a7606a84600a967bcb-1_mips64_octeon3.ipk
+Size: 8468
+SHA256sum: 1dc53ce071bab05dacd7890e6eb5757365c8e71b1f8c3c3748da05c1dcc5af5f
+Description:  This package contains a daemon which can be used to forward
+ PCP (Port Control Protocol - RFC6887) requests requests to PCP remote servers.
+ 
+ In and of itself, it is not very useful, but combined with hnetd+miniupnpd
+ it allows for control of NAT forwarding and firewall pinholes from multiple
+ hops away.
+
+Package: mrd6
+Version: 2013-11-30-c805eb33255dbc0b6647d463c6c67d1c9d3105a0-2
+Depends: libc, libstdcpp6
+Source: feeds/routing/mrd6
+SourceName: mrd6
+License: GPL-2.0+
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 264452
+Filename: mrd6_2013-11-30-c805eb33255dbc0b6647d463c6c67d1c9d3105a0-2_mips64_octeon3.ipk
+Size: 265293
+SHA256sum: 6adfda9d3a2eedb39d98f197e50ec8f03a0030e2c4efd2d2355d5416e332a250
+Description:  Multicast is becoming a major component in next generation networks, used 
+ in several scenarios, from video broadcasting to multimedia conferencing. 
+ In order to be implemented, new technology needs supporting hardware and 
+ software across a set of devices and systems. MRD6 is an implementation of 
+ a modular IPv6 Multicast Routing Framework for the Linux operating system 
+ and provides MLDv2 (as well as MLDv1), PIM-SM and MBGP support.
+
+Package: ndppd
+Version: 0.2.5-1
+Depends: libc, uclibcxx
+Source: feeds/routing/ndppd
+SourceName: ndppd
+License: GPL-3.0+
+Section: net
+Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
+Architecture: mips64_octeon3
+Installed-Size: 40684
+Filename: ndppd_0.2.5-1_mips64_octeon3.ipk
+Size: 41742
+SHA256sum: db577aaf17551d9e949819cbd4ac0fbf068e2b22d13ff5c3d51cfa81f4bf4157
+Description:  ndppd, or NDP Proxy Daemon, is a daemon that proxies NDP (Neighbor Discovery
+ Protocol) messages between interfaces.  ndppd currently only supports Neighbor
+ Solicitation Messages and Neighbor Advertisement Messages.
+ 
+ The ndp_proxy provided by Linux doesn't support listing proxies, and only hosts
+ are supported.  No subnets.  ndppd solves this by listening for Neighbor
+ Solicitation messages on an interface, then query the internal interfaces for
+ that target IP before finally sending a Neighbor Advertisement message.
+
+Package: nodogsplash
+Version: 5.0.0-1
+Depends: libc, libpthread, iptables-mod-ipopt, libmicrohttpd-no-ssl
+Conflicts: nodogsplash2
+Source: feeds/routing/nodogsplash
+SourceName: nodogsplash
+License: GPL-2.0+
+Section: net
+Maintainer: Moritz Warning <moritzwarning@web.de>
+Architecture: mips64_octeon3
+Installed-Size: 49690
+Filename: nodogsplash_5.0.0-1_mips64_octeon3.ipk
+Size: 50642
+SHA256sum: 62b253c9261d9f0ecb1684b1f331a1d5a95627c002d0b5c9d8afbac620d3788a
+Description:  Nodogsplash is a Captive Portal that offers a simple way to
+ provide restricted access to the Internet by showing a splash
+ page to the user before Internet access is granted.
+ It also incorporates an API that allows the creation of
+ sophisticated authentication applications.
+
+Package: ohybridproxy
+Version: 2020-05-22-0dfef1eb5f067250a5f24a899536879ea4fdc4c5-1
+Depends: libc, libubox20191228, mdnsd
+Source: feeds/routing/ohybridproxy
+SourceName: ohybridproxy
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 13678
+Filename: ohybridproxy_2020-05-22-0dfef1eb5f067250a5f24a899536879ea4fdc4c5-1_mips64_octeon3.ipk
+Size: 14462
+SHA256sum: 7e66232ad50cf915f4bd0c9ce384e40a97982df958c95049210bc13a54965162
+Description:  This package provides a statically configured daemon for translating DNS
+ requests to Multicast DNS and back again.
+
+Package: olsrd-mod-arprefresh
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-arprefresh
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 2157
+Filename: olsrd-mod-arprefresh_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 2896
+SHA256sum: 77ac9dfe71cea82c8c3c89a6c6f539af2248a00bb0761e0ea7e83f6de6d56a25
+Description:  Kernel ARP cache refresh plugin
+
+Package: olsrd-mod-bmf
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd, kmod-tun
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-bmf
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 12250
+Filename: olsrd-mod-bmf_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 13021
+SHA256sum: 37b5e80eec54192ff226a801324ca7ca5f15d17a578772ee69245c5884ab5eec
+Description:  Basic multicast forwarding plugin
+
+Package: olsrd-mod-dot-draw
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-dot-draw
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 3844
+Filename: olsrd-mod-dot-draw_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 4590
+SHA256sum: 3195af17b6366de1f904894b6a739601d79d40f9240595c80d6d8c48b729c952
+Description:  Dot topology information plugin
+
+Package: olsrd-mod-dyn-gw-plain
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-dyn-gw-plain
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 2451
+Filename: olsrd-mod-dyn-gw-plain_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 3196
+SHA256sum: fd1e6c34d73b664358e4ed9a81a2cee7c12acdaaee17a2e48500d0d7a955be8b
+Description:  Dynamic internet gateway plain plugin
+
+Package: olsrd-mod-dyn-gw
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-dyn-gw
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 4247
+Filename: olsrd-mod-dyn-gw_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 4993
+SHA256sum: 5be80ee557d5d24d3b1b00b451ce4d8f06b6c78960fa28d07bc166198fb5cedf
+Description:  Dynamic internet gateway plugin
+
+Package: olsrd-mod-httpinfo
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-httpinfo
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 30371
+Filename: olsrd-mod-httpinfo_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 31122
+SHA256sum: 6d5048fa92536bcf53e6ad5f4374f5e5fa866a1e2b9a833c1614664f85e2f062
+Description:  Small informative web server plugin
+
+Package: olsrd-mod-jsoninfo
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-jsoninfo
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 20909
+Filename: olsrd-mod-jsoninfo_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 21681
+SHA256sum: d29d48d7037a4c5850570197017feb315cd990e88d3b906e98d19ef5279b02b1
+Description:  Small informative plugin with JSON output
+
+Package: olsrd-mod-mdns
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-mdns
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 8837
+Filename: olsrd-mod-mdns_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 9625
+SHA256sum: f8a26b352a30ae3e145ff928346809fd0f30350ad970558fda8e8306ea7eb759
+Description:  MDNS/Zeroconf/Bonjour packet distribution 
+
+Package: olsrd-mod-nameservice
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-nameservice
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 11228
+Filename: olsrd-mod-nameservice_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 11948
+SHA256sum: dfee2c7abdc46f4469d848c363bce0323ce214df1a8943cda1e5c6a32eb434f9
+Description:  Lightweight hostname resolver plugin
+
+Package: olsrd-mod-netjson
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-netjson
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 12567
+Filename: olsrd-mod-netjson_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 13308
+SHA256sum: f562deedb1f1fbe2253fdf9c6f3be609327465920f923236d8d491374a4bd1ab
+Description:  netjson plugin with JSON output
+
+Package: olsrd-mod-p2pd
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-p2pd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 8565
+Filename: olsrd-mod-p2pd_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 9334
+SHA256sum: 53354d3f1757216bfde9c80a26dbcbbd9f5ced9248bb233abeae3b8587b9a30f
+Description:  Peer to Peer Discovery plugin
+
+Package: olsrd-mod-pgraph
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-pgraph
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 2961
+Filename: olsrd-mod-pgraph_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 3703
+SHA256sum: 49157a90c2febcfcd16cdc92d9b056b4e650ab04dc8f7762dee771b3de8c2111
+Description:  output network topology for pgraph
+
+Package: olsrd-mod-pud
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd, libgps
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-pud
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 57653
+Filename: olsrd-mod-pud_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 58258
+SHA256sum: 3946f1ebaf92483d279332f22ba6ece9b944b7f9e532a4a2e7c42663437954f3
+Description:  Position Update Distribution plugin
+
+Package: olsrd-mod-quagga
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-quagga
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 6259
+Filename: olsrd-mod-quagga_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 7048
+SHA256sum: c79b2bf2d03c16c34416beef32cf6005da5455d8bf6ab5daf45ff2a8434a145c
+Description:  Quagga plugin
+
+Package: olsrd-mod-secure
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-secure
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 10128
+Filename: olsrd-mod-secure_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 10961
+SHA256sum: aa1a28bba8954de3b2977a50d25516648fdb859339b262632b30f17e3a24e995
+Description:  Message signing plugin to secure routing domain
+
+Package: olsrd-mod-sgwdynspeed
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-sgwdynspeed
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 4535
+Filename: olsrd-mod-sgwdynspeed_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 5344
+SHA256sum: 061597cac347c569756309f0b726cd9e40d895968c39176c9f0dd5cbb5e3fff7
+Description:  Smart Gateway dynamic speed plugin
+
+Package: olsrd-mod-txtinfo
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-txtinfo
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 14449
+Filename: olsrd-mod-txtinfo_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 15203
+SHA256sum: 029f214e4317e2bfe011e0b63c2770ea8ce2f75a50e902d231f0f203fcdf1b8c
+Description:  Small informative web server plugin
+
+Package: olsrd-mod-watchdog
+Version: 2020-06-18-84400e5c-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+SourceName: olsrd-mod-watchdog
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 1772
+Filename: olsrd-mod-watchdog_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 2505
+SHA256sum: 812981a6f6470da3033adddd1c627f473fe03be1f651f0cf88d25a6942f6d79f
+Description:  Watchdog plugin
+
+Package: olsrd
+Version: 2020-06-18-84400e5c-1
+Depends: libc, libpthread
+Source: feeds/routing/olsrd
+SourceName: olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 132768
+Filename: olsrd_2020-06-18-84400e5c-1_mips64_octeon3.ipk
+Size: 133459
+SHA256sum: 1f6b7dc1d6f07aeb673032e1d95b1371a47d7190103cca5e289151298517a79d
+Description:  OLSR (Optimized Link State Routing) daemon
+
+Package: oonf-init-scripts
+Version: 0.9.1-r3
+Depends: libc
+Source: feeds/routing/oonf-init-scripts
+SourceName: oonf-init-scripts
+Section: net
+Maintainer: Henning Rogge <hrogge@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 1392
+Filename: oonf-init-scripts_0.9.1-r3_mips64_octeon3.ipk
+Size: 2127
+SHA256sum: 48a10dfb02a1bd09d0d93f8624dd043bec0a38e81f627677507e5e6c236ba3bf
+Description:  Common OONF startup scripts
+
+Package: opennds
+Version: 5.1.0-1
+Depends: libc, libpthread, iptables-mod-ipopt, libmicrohttpd-no-ssl
+Conflicts: nodogsplash, nodogsplash2
+Source: feeds/routing/opennds
+SourceName: opennds
+License: GPL-2.0+
+Section: net
+Maintainer: Rob White <rob@blue-wave.net>
+Architecture: mips64_octeon3
+Installed-Size: 86740
+Filename: opennds_5.1.0-1_mips64_octeon3.ipk
+Size: 87487
+SHA256sum: e2d9eaf5cc567ca1a411fabbbd96373629c973948f5ff110d7e996a6f2fef53c
+Description:  openNDS is a Captive Portal that offers a simple way to
+ provide restricted access to the Internet by showing a splash
+ page to the user before Internet access is granted.
+ It also incorporates an API that allows the creation of
+ sophisticated authentication applications.
+
+Package: pimbd
+Version: 2018-06-19-dbf4e5913b06e3160f506df15e6a047a403a5f21-1
+Depends: libc, netifd
+Source: feeds/routing/pimbd
+SourceName: pimbd
+License: Apache-2.0
+Section: net
+Maintainer: Pierre Pfister <pierre.pfister@darou.fr>
+Architecture: mips64_octeon3
+Installed-Size: 85595
+Filename: pimbd_2018-06-19-dbf4e5913b06e3160f506df15e6a047a403a5f21-1_mips64_octeon3.ipk
+Size: 86405
+SHA256sum: 61575c347f99e396461745b2ec380f07e6d2fbb64cf8bd3860f69cf53d4a9cfb
+Description:  This package provides a daemon which implements the Protocol Independent
+ Multicast BIDIR routing protocol. Note that a routing protocol must be 
+ installed and running in order for PIM to function.
+
+Package: vis
+Version: 1440-2
+Depends: libc, libpthread
+Source: feeds/routing/vis
+SourceName: vis
+License: GPL-2.0
+Section: net
+Maintainer: Corinna "Elektra" Aichele <onelektra@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 11761
+Filename: vis_1440-2_mips64_octeon3.ipk
+Size: 12514
+SHA256sum: f19173055cd91d80aca086fab7ebf356025aba0fb6a95de5a8ee4a5cb3512d80
+Description:  visualization server for B.A.T.M.A.N. layer 3
+
+Package: zonestitcher
+Version: 2020-05-22-0dfef1eb5f067250a5f24a899536879ea4fdc4c5-1
+Depends: libc, libubox20191228
+Source: feeds/routing/ohybridproxy
+SourceName: zonestitcher
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeon3
+Installed-Size: 11224
+Filename: zonestitcher_2020-05-22-0dfef1eb5f067250a5f24a899536879ea4fdc4c5-1_mips64_octeon3.ipk
+Size: 12065
+SHA256sum: 68ba6c75fcfd57dc363eb6e69e42425d0623e303ec5f4e9703e330ef0403d6f7
+Description:  This package provides a statically configured daemon for translating DNS
+ requests to Multicast DNS and back again.
+

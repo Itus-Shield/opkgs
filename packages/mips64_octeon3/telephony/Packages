@@ -1,0 +1,4298 @@
+Package: baresip-mod-alsa
+Version: 0.6.4-2
+Depends: libc, baresip, alsa-lib
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3731
+Filename: baresip-mod-alsa_0.6.4-2_mips64_octeon3.ipk
+Size: 4495
+SHA256sum: 561adc7064a9f44d2c0bf5627d0bfb47d4f13220d485d1933e5e85253dfa9305
+Description:  ALSA audio driver
+
+Package: baresip-mod-aubridge
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2874
+Filename: baresip-mod-aubridge_0.6.4-2_mips64_octeon3.ipk
+Size: 3618
+SHA256sum: cc5216efc5171886688cde2e16be34c0412480bb96582b2875befe739a8d289e
+Description:  Audio bridge module
+
+Package: baresip-mod-aufile
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2780
+Filename: baresip-mod-aufile_0.6.4-2_mips64_octeon3.ipk
+Size: 3558
+SHA256sum: eed83171ea9a35e83ca0a850e5d05f4fff9239293b2d6ad4553dc2d0eef49a2f
+Description:  Audio module for using a WAV-file as audio input
+
+Package: baresip-mod-b2bua
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3231
+Filename: baresip-mod-b2bua_0.6.4-2_mips64_octeon3.ipk
+Size: 3982
+SHA256sum: 961668609f27dce97da60cc09043577d4b85ad29977ca59524f25c986974a030
+Description:  Back-to-Back User-Agent module
+
+Package: baresip-mod-cons
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2644
+Filename: baresip-mod-cons_0.6.4-2_mips64_octeon3.ipk
+Size: 3398
+SHA256sum: ec2b5650d75b25687a23ccc7288b850e78430011fa89af4ac4cf901f72cdb305
+Description:  UDP/TCP console UI driver
+
+Package: baresip-mod-ctrl-tcp
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5007
+Filename: baresip-mod-ctrl-tcp_0.6.4-2_mips64_octeon3.ipk
+Size: 5747
+SHA256sum: 40f1f2f4bf718f39869eed08c2e1a6bfae5fdd24d38509af977ebeb90a746dd6
+Description:  TCP control interface
+
+Package: baresip-mod-debug-cmd
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2996
+Filename: baresip-mod-debug-cmd_0.6.4-2_mips64_octeon3.ipk
+Size: 3747
+SHA256sum: 2c3fa54ec8f2fe27ab93c24a04b25714486a563139525e174efaaa7ff9ac5b4d
+Description:  Debug commands
+
+Package: baresip-mod-dtls-srtp
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5127
+Filename: baresip-mod-dtls-srtp_0.6.4-2_mips64_octeon3.ipk
+Size: 5874
+SHA256sum: b6aa59393d859fe71b03d94295ade7951757e8405750c486b99c2216634faa93
+Description:  DTLS-SRTP end-to-end encryption
+
+Package: baresip-mod-dtmfio
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1634
+Filename: baresip-mod-dtmfio_0.6.4-2_mips64_octeon3.ipk
+Size: 2411
+SHA256sum: 4b1730402ee7757b98afa12c79a44654808d46f17f8aca8e93888f74d04cc802
+Description:  DTMF input/output
+
+Package: baresip-mod-echo
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2296
+Filename: baresip-mod-echo_0.6.4-2_mips64_octeon3.ipk
+Size: 3039
+SHA256sum: 8e92f437b76eb3d168c4428034f4b4cfec98bb98a79b5d6aa0e0ac6e8926f7b4
+Description:  Echo server module
+
+Package: baresip-mod-evdev
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7237
+Filename: baresip-mod-evdev_0.6.4-2_mips64_octeon3.ipk
+Size: 7817
+SHA256sum: c9bc5753995c92b04f3a52a62d4d75afca5747c6c25b4f9a2786979fb6c59b0a
+Description:  Linux input driver
+
+Package: baresip-mod-fakevideo
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2183
+Filename: baresip-mod-fakevideo_0.6.4-2_mips64_octeon3.ipk
+Size: 2928
+SHA256sum: 472413ce09008df32aadd8a870a1cd48bf5b8912b752fd07fc5f0b12c6e8aca8
+Description:  Fake video input/output driver
+
+Package: baresip-mod-g711
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1619
+Filename: baresip-mod-g711_0.6.4-2_mips64_octeon3.ipk
+Size: 2404
+SHA256sum: b180c4fb63e7783af19d8e96fedcca1dcacd1cc71575affb2608393bb894abf5
+Description:  G.711 audio codec
+
+Package: baresip-mod-g722
+Version: 0.6.4-2
+Depends: libc, baresip, libspandsp
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1613
+Filename: baresip-mod-g722_0.6.4-2_mips64_octeon3.ipk
+Size: 2397
+SHA256sum: fd4f45b27b9e0bb571542b972f00401f829bb42008bbcb839207f6ea0339233a
+Description:  G.722 audio codec
+
+Package: baresip-mod-g726
+Version: 0.6.4-2
+Depends: libc, baresip, libspandsp
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1831
+Filename: baresip-mod-g726_0.6.4-2_mips64_octeon3.ipk
+Size: 2578
+SHA256sum: 96f4f0c87be2cd00b94d0ce5cfe68f5056822e29d6e5e21e2733c6ff62a9e85e
+Description:  G.726 audio codec
+
+Package: baresip-mod-httpd
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2514
+Filename: baresip-mod-httpd_0.6.4-2_mips64_octeon3.ipk
+Size: 3261
+SHA256sum: 8165ff5186473a0436a033b2f1f931d5fe89c829c1eb3f41ee1ec2e3da797d6a
+Description:  HTTP webserver UI-module
+
+Package: baresip-mod-mwi
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2665
+Filename: baresip-mod-mwi_0.6.4-2_mips64_octeon3.ipk
+Size: 3417
+SHA256sum: 13ba57ceb10d9a6fe8b633cd4af95ba6cc7768259fd4aa1fe79e8862a48c5918
+Description:  Message Waiting Indication
+
+Package: baresip-mod-natpmp
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4604
+Filename: baresip-mod-natpmp_0.6.4-2_mips64_octeon3.ipk
+Size: 5362
+SHA256sum: 44c6f487601f7692d448967a582682108bb3cf7cd30a64cbca31be804f99494a
+Description:  NAT Port Mapping Protocol module
+
+Package: baresip-mod-opus
+Version: 0.6.4-2
+Depends: libc, baresip, libopus
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4343
+Filename: baresip-mod-opus_0.6.4-2_mips64_octeon3.ipk
+Size: 5106
+SHA256sum: f72c25bb4ee5e0ef31aeeef13acb5a450efc3118756caf32cb51bf258e735fd8
+Description:  OPUS Interactive audio codec
+
+Package: baresip-mod-oss
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2630
+Filename: baresip-mod-oss_0.6.4-2_mips64_octeon3.ipk
+Size: 3367
+SHA256sum: 53599e52612f9bcafc3ffdfa35b2688a387d24ffd11a9ae9f7d5ceeee29a3a77
+Description:  OSS audio driver
+
+Package: baresip-mod-plc
+Version: 0.6.4-2
+Depends: libc, baresip, libspandsp
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1705
+Filename: baresip-mod-plc_0.6.4-2_mips64_octeon3.ipk
+Size: 2490
+SHA256sum: 335c9ae39506bab688d2cd375e79700dc80cf1e789b9040957e275eba4499434
+Description:  Packet Loss Concealment
+
+Package: baresip-mod-portaudio
+Version: 0.6.4-2
+Depends: libc, baresip, portaudio
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2466
+Filename: baresip-mod-portaudio_0.6.4-2_mips64_octeon3.ipk
+Size: 3210
+SHA256sum: 99411cb569881a62e2ef6cdf3a81d5811519dad86047af430f82eb429b4e8891
+Description:  Portaudio audio driver
+
+Package: baresip-mod-presence
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6756
+Filename: baresip-mod-presence_0.6.4-2_mips64_octeon3.ipk
+Size: 7534
+SHA256sum: 6f585d4814182db5d9e83766e35b3955318a1b6a61dad763903c1592c7a477a1
+Description:  Presence module
+
+Package: baresip-mod-pulse
+Version: 0.6.4-2
+Depends: libc, baresip, pulseaudio
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3941
+Filename: baresip-mod-pulse_0.6.4-2_mips64_octeon3.ipk
+Size: 4702
+SHA256sum: 9f6299d27949676b1847dd4a63333eb88f7679193293bf568e2c7b936e0ada50
+Description:  Pulseaudio audio driver
+
+Package: baresip-mod-rtcpsummary
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2129
+Filename: baresip-mod-rtcpsummary_0.6.4-2_mips64_octeon3.ipk
+Size: 2870
+SHA256sum: b141d4633eab192f9422f9b0b337e8da4537d80df71f7e6e3d52e0e0019d1bbf
+Description:  RTCP summary module
+
+Package: baresip-mod-selfview
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2537
+Filename: baresip-mod-selfview_0.6.4-2_mips64_octeon3.ipk
+Size: 3280
+SHA256sum: 201e15be841259a855b59f337bfc3ecc62523e7fd395962b604c2001384488f8
+Description:  Video selfview module
+
+Package: baresip-mod-sndfile
+Version: 0.6.4-2
+Depends: libc, baresip, libsndfile
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2487
+Filename: baresip-mod-sndfile_0.6.4-2_mips64_octeon3.ipk
+Size: 3240
+SHA256sum: 7362abd92cc842bc1015f60db132a2bf4cc424501bba4bc66144418c7454eb6e
+Description:  Audio dumper using libsndfile
+
+Package: baresip-mod-srtp
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4218
+Filename: baresip-mod-srtp_0.6.4-2_mips64_octeon3.ipk
+Size: 4976
+SHA256sum: 0238356b96fe79c894211b033c717faeb88c6634c5a027920ae51cfcf2b0519b
+Description:  Secure RTP module using libre
+
+Package: baresip-mod-stdio
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2165
+Filename: baresip-mod-stdio_0.6.4-2_mips64_octeon3.ipk
+Size: 2908
+SHA256sum: 96fb119515222d2ff99e25428dec8db6df90c68207febe6b9decabe8d8dd11eb
+Description:  Standard input/output UI driver
+
+Package: baresip-mod-uuid
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1936
+Filename: baresip-mod-uuid_0.6.4-2_mips64_octeon3.ipk
+Size: 2678
+SHA256sum: f3b912cd948a56a12061772eb3d8bc75d85b032f8032f73dfad93fa6dbf3864e
+Description:  UUID generator and loader
+
+Package: baresip-mod-v4l2-codec
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4450
+Filename: baresip-mod-v4l2-codec_0.6.4-2_mips64_octeon3.ipk
+Size: 5209
+SHA256sum: 1be659ea22b7b807a788dc8547c208dcf24d1da1f99f7f66263da8cc7d235f11
+Description:  Video4Linux2 video codec module
+
+Package: baresip-mod-v4l2
+Version: 0.6.4-2
+Depends: libc, baresip, libv4l
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4395
+Filename: baresip-mod-v4l2_0.6.4-2_mips64_octeon3.ipk
+Size: 5150
+SHA256sum: 955a91114f7865ea6a565e695c1a23ab43d58688f5c73fc77013876533e2b478
+Description:  Video4Linux2 video source
+
+Package: baresip-mod-vidbridge
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2346
+Filename: baresip-mod-vidbridge_0.6.4-2_mips64_octeon3.ipk
+Size: 3091
+SHA256sum: e5870937e959a7f6ff044ef436ef25eee3e66f16d34b9411fc188298a43ee490
+Description:  Video bridge module
+
+Package: baresip-mod-vidloop
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6129
+Filename: baresip-mod-vidloop_0.6.4-2_mips64_octeon3.ipk
+Size: 6868
+SHA256sum: c1111386b54ef45d90105a25f2522f02bb1058fcacd33a29c937df511d032a9b
+Description:  Video-loop test module
+
+Package: baresip-mod-vp8
+Version: 0.6.4-2
+Depends: libc, baresip, libvpx1.8
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4121
+Filename: baresip-mod-vp8_0.6.4-2_mips64_octeon3.ipk
+Size: 4871
+SHA256sum: deb3470f0b45852dc1467828d4e588c80561cc932f2b9e7d15e2375efcd8dd85
+Description:  VP8 video codec
+
+Package: baresip-mod-vp9
+Version: 0.6.4-2
+Depends: libc, baresip, libvpx1.8
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4519
+Filename: baresip-mod-vp9_0.6.4-2_mips64_octeon3.ipk
+Size: 5275
+SHA256sum: 94742aa806139cc8edd9e779cf3fc2933f66236f586bee422e174cb218be917f
+Description:  VP9 video codec
+
+Package: baresip-mod-vumeter
+Version: 0.6.4-2
+Depends: libc, baresip
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2457
+Filename: baresip-mod-vumeter_0.6.4-2_mips64_octeon3.ipk
+Size: 3215
+SHA256sum: 7bf4c4717bfcfe9bab5c30e0bb3f77387ea76a5c232ce19ed4d5f9499405dedc
+Description:  Display audio levels in console
+
+Package: baresip
+Version: 0.6.4-2
+Depends: libc, libre, librem
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 290326
+Filename: baresip_0.6.4-2_mips64_octeon3.ipk
+Size: 290927
+SHA256sum: 651db6442765c0a4a19ae458e1960554948e099932224188ebb34f6e0492d242
+Description:  Portable and modular SIP User-Agent with A/V support
+
+Package: bcg729
+Version: 1.0.4-4
+Depends: libc
+License: GPL-2.0+
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 30895
+Filename: bcg729_1.0.4-4_mips64_octeon3.ipk
+Size: 31760
+SHA256sum: 20db2258108f7fced7f212e511d47817bf634cdf852676aebfd36a3ea82e20c5
+Description:  Bcg729 is a software G729A encoder and decoder library written in C, developed
+ by Belledonne Communications, the company supporting the Linphone project.
+ It was written from scratch and is NOT a derivative work of ITU reference
+ source code in any kind.
+
+Package: gsm-utils
+Version: 1.10-20140304-2
+Depends: libc, gsmlib
+License: LGPL-2.1+
+Section: utils
+Architecture: mips64_octeon3
+Installed-Size: 48476
+Filename: gsm-utils_1.10-20140304-2_mips64_octeon3.ipk
+Size: 49281
+SHA256sum: 5bdd9ffea4258d240ca853bec7ba0a3619b47c0a8479fcd9620a070df8bbdeca
+Description:  Some simple command line programs to access GSM mobile phones via GSM modems.
+
+Package: gsmlib
+Version: 1.10-20140304-2
+Depends: libc, uclibcxx
+License: LGPL-2.1+
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 113801
+Filename: gsmlib_1.10-20140304-2_mips64_octeon3.ipk
+Size: 114503
+SHA256sum: fd9c8caaf137691dcb135c3aba539220a0f2092ef21343dd587249e1aa06f09a
+Description:  A library to access GSM mobile phones via GSM modems.
+
+Package: iptables-mod-rtpengine
+Version: mr8.3.1.4-3
+Depends: libc, libxtables12
+License: GPL-3.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1533
+Filename: iptables-mod-rtpengine_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 2327
+SHA256sum: 5e980ba167427bd0e46fae2f29eb069d8abb170b9c5cf5da1579087b036889c4
+Description:  Sipwise rtpengine iptables extension
+
+Package: kamailio5-lib-libkamailio-ims
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21378
+Filename: kamailio5-lib-libkamailio-ims_5.3.3-3_mips64_octeon3.ipk
+Size: 22106
+SHA256sum: a9772d56cd63207e44ca06dbad8b794e80c011050069c5cb3e3a8e90a1d606b2
+Description:  Kamailio5 IMS library
+
+Package: kamailio5-lib-libtrie
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5424
+Filename: kamailio5-lib-libtrie_5.3.3-3_mips64_octeon3.ipk
+Size: 6145
+SHA256sum: 87eeb7c0704dd9dc989a2fab0de06b854db1abb7817e5c49a816d41c005e2ea3
+Description:  Kamailio5 digital tree library
+
+Package: kamailio5-mod-acc-diameter
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-acc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23071
+Filename: kamailio5-mod-acc-diameter_5.3.3-3_mips64_octeon3.ipk
+Size: 23837
+SHA256sum: 7b91f170809acac927ea494763b4571e6a081689236b3f5ad1c82474c3f9e0cb
+Description:  Accounting for DIAMETER backend for Kamailio5
+
+Package: kamailio5-mod-acc-json
+Version: 5.3.3-3
+Depends: libc, kamailio5, jansson, kamailio5-mod-acc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7845
+Filename: kamailio5-mod-acc-json_5.3.3-3_mips64_octeon3.ipk
+Size: 8674
+SHA256sum: 3cb0cf6a75412fc1d70cb653a2eb913df72ae889837c08e668526d82f36c7886
+Description:  Accounting with records exported in JSON format for Kamailio5
+
+Package: kamailio5-mod-acc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 41460
+Filename: kamailio5-mod-acc_5.3.3-3_mips64_octeon3.ipk
+Size: 42249
+SHA256sum: dfbf0868b32bac798ac6bd1d01daf1b0329b6bc9e28caf6ebbe59310505a934d
+Description:  Accounting for Kamailio5
+
+Package: kamailio5-mod-alias-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9207
+Filename: kamailio5-mod-alias-db_5.3.3-3_mips64_octeon3.ipk
+Size: 9953
+SHA256sum: 8e7ac0e9fa6232b2b5b5c331eca96c4b06eeb74d355e9a622310f8ac49afd701
+Description:  Database-backend aliases for Kamailio5
+
+Package: kamailio5-mod-app-jsdt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 181253
+Filename: kamailio5-mod-app-jsdt_5.3.3-3_mips64_octeon3.ipk
+Size: 177270
+SHA256sum: a1b0caea97c70078e7e6b56fb42cdd67b9f23838f81c8cac83317ca4f4bcdcef
+Description:  Execute JavaScript scripts for Kamailio5
+
+Package: kamailio5-mod-app-lua-sr
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-app-lua
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 47521
+Filename: kamailio5-mod-app-lua-sr_5.3.3-3_mips64_octeon3.ipk
+Size: 47975
+SHA256sum: 061ad3072792a7cf5ca2230bfc7931edfaad1944b2aa9c5a824d8a19e42e945f
+Description:  Old Lua API for Kamailio5
+
+Package: kamailio5-mod-app-lua
+Version: 5.3.3-3
+Depends: libc, kamailio5, liblua5.1.5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 45836
+Filename: kamailio5-mod-app-lua_5.3.3-3_mips64_octeon3.ipk
+Size: 41427
+SHA256sum: 4e2cc17d49e02610a7071b3d6515057ba235a90a1ccccbc950d550352f7bcef8
+Description:  Execute embedded Lua scripts for Kamailio5
+
+Package: kamailio5-mod-app-python3
+Version: 5.3.3-3
+Depends: libc, kamailio5, python3-light
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 56371
+Filename: kamailio5-mod-app-python3_5.3.3-3_mips64_octeon3.ipk
+Size: 52122
+SHA256sum: 0bc3084f2a42a8fcbe1bdc76c2e1fe54a376099448102db8e8281827102bcb46
+Description:  Python3 scripting interpreter for Kamailio5
+
+Package: kamailio5-mod-app-ruby
+Version: 5.3.3-3
+Depends: libc, kamailio5, libruby2.7
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 41205
+Filename: kamailio5-mod-app-ruby_5.3.3-3_mips64_octeon3.ipk
+Size: 37196
+SHA256sum: f02070bde9502eaec5430dfd8c8c368fac404a4b19130c8c1d74a75200bf23ee
+Description:  Ruby scripting interpreter for Kamailio5
+
+Package: kamailio5-mod-app-sqlang
+Version: 5.3.3-3
+Depends: libc, kamailio5, libstdcpp6
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 160602
+Filename: kamailio5-mod-app-sqlang_5.3.3-3_mips64_octeon3.ipk
+Size: 155907
+SHA256sum: 4bb0da867bd1c73945fc9a2833c1ddaf998d2ad186a50c2e89c1e35bf515fda1
+Description:  Execute Squirrel language scripts for Kamailio5
+
+Package: kamailio5-mod-async
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm, kamailio5-mod-tmx
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13046
+Filename: kamailio5-mod-async_5.3.3-3_mips64_octeon3.ipk
+Size: 13802
+SHA256sum: 519b47613d00961a166d138fc18c783ca499cbe53c9b7a2f08ccf161bdadb8b4
+Description:  Asynchronous SIP handling functions for Kamailio5
+
+Package: kamailio5-mod-auth-db
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-auth
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 16082
+Filename: kamailio5-mod-auth-db_5.3.3-3_mips64_octeon3.ipk
+Size: 16820
+SHA256sum: 4bde3416debe58f97e28f31d7c9727c5e020714f5b06aaeed8d32f5fffa68e36
+Description:  Database-backend authentication for Kamailio5
+
+Package: kamailio5-mod-auth-diameter
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 28534
+Filename: kamailio5-mod-auth-diameter_5.3.3-3_mips64_octeon3.ipk
+Size: 29286
+SHA256sum: cdc56f5567c854bc7a92a6b3ec7f69f45f881f67011a968b2134b6d1fd10e150
+Description:  Diameter authentication for Kamailio5
+
+Package: kamailio5-mod-auth-ephemeral
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18397
+Filename: kamailio5-mod-auth-ephemeral_5.3.3-3_mips64_octeon3.ipk
+Size: 19173
+SHA256sum: fe07368b7301c9072d52e3a5e1abcbc66919c0308245726cf71a689f3a58b2b9
+Description:  Ephemeral credentials for Kamailio5
+
+Package: kamailio5-mod-auth-identity
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1, libcurl4
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 33797
+Filename: kamailio5-mod-auth-identity_5.3.3-3_mips64_octeon3.ipk
+Size: 34609
+SHA256sum: ce89422ca467224f8fdbc5d4659f65d0ac09fb426365481fe3346f5533914b11
+Description:  Identity authentication for Kamailio5
+
+Package: kamailio5-mod-auth-xkeys
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-auth
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11406
+Filename: kamailio5-mod-auth-xkeys_5.3.3-3_mips64_octeon3.ipk
+Size: 12150
+SHA256sum: 74f5c6969785638a8f9b9cdcb5e1cba5a7783608a96ce08a3676a1a17628eddd
+Description:  Shared-key authentication for Kamailio5
+
+Package: kamailio5-mod-auth
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 32518
+Filename: kamailio5-mod-auth_5.3.3-3_mips64_octeon3.ipk
+Size: 33335
+SHA256sum: af533040157588d153309724bdc05f6af5a41d9e992b4ca1ef7dd683b8788043
+Description:  Authentication Framework for Kamailio5
+
+Package: kamailio5-mod-avp
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 22914
+Filename: kamailio5-mod-avp_5.3.3-3_mips64_octeon3.ipk
+Size: 23651
+SHA256sum: ec9ebcc13f8d4c13784096d6a3172e3ffec912aed7280d80ace5dbb68ae719fd
+Description:  Functions for handling AVPs for Kamailio5
+
+Package: kamailio5-mod-avpops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 49293
+Filename: kamailio5-mod-avpops_5.3.3-3_mips64_octeon3.ipk
+Size: 50069
+SHA256sum: 4c16b4b9572b8743855fdc60a9eab37131987443ff70b60286a6628819235de3
+Description:  AVP operation for Kamailio5
+
+Package: kamailio5-mod-benchmark
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10280
+Filename: kamailio5-mod-benchmark_5.3.3-3_mips64_octeon3.ipk
+Size: 11060
+SHA256sum: e9cb19dee3107de5d8949b02df63cc42f25c87c2cc5a21a2cbf4342ecf1064c8
+Description:  Config benchmark for Kamailio5
+
+Package: kamailio5-mod-blst
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3976
+Filename: kamailio5-mod-blst_5.3.3-3_mips64_octeon3.ipk
+Size: 4739
+SHA256sum: 8b304c4596ea3fd3f44d1165146180c947c2b18b0559ad35e9ac2fa799d3ebe2
+Description:  Blacklisting API for config for Kamailio5
+
+Package: kamailio5-mod-call-control
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-pv
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 16369
+Filename: kamailio5-mod-call-control_5.3.3-3_mips64_octeon3.ipk
+Size: 17080
+SHA256sum: 399f44685c01bc5b455df8b67cdf2baf94e7c7fe129620c1c11569139db0a1f3
+Description:  Call Control for Kamailio5
+
+Package: kamailio5-mod-call-obj
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 16210
+Filename: kamailio5-mod-call-obj_5.3.3-3_mips64_octeon3.ipk
+Size: 16950
+SHA256sum: e31656a73e8a9e16d69b9de8342c19d7351983536ff2d984fd0e97728c1a5a43
+Description:  Call identification support for Kamailio5
+
+Package: kamailio5-mod-carrierroute
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libtrie
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 75284
+Filename: kamailio5-mod-carrierroute_5.3.3-3_mips64_octeon3.ipk
+Size: 76087
+SHA256sum: d455960bdf69d417d0eb91450355c414ffe2fd876cc67e1cce4b4f47e660af84
+Description:  Carrier Route for Kamailio5
+
+Package: kamailio5-mod-cdp-avp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-cdp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 44104
+Filename: kamailio5-mod-cdp-avp_5.3.3-3_mips64_octeon3.ipk
+Size: 43766
+SHA256sum: 3db417e997ce024d6b6c59d40cbe8abec2e952de751a71b48d8f3a85c43fa696
+Description:  CDP AVP helper module for Kamailio5
+
+Package: kamailio5-mod-cdp
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 123978
+Filename: kamailio5-mod-cdp_5.3.3-3_mips64_octeon3.ipk
+Size: 124611
+SHA256sum: 623aeca993da23d721308dcdf2c9625cae4cacba859daaa435e05853d6993930
+Description:  C Diameter Peer for Kamailio5
+
+Package: kamailio5-mod-cfg-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8973
+Filename: kamailio5-mod-cfg-db_5.3.3-3_mips64_octeon3.ipk
+Size: 9723
+SHA256sum: b64dfc26ea2ba5254b7e720310190e74fe871d403a712a6ea3e984adba3be499
+Description:  Load parameters from database for Kamailio5
+
+Package: kamailio5-mod-cfg-rpc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7408
+Filename: kamailio5-mod-cfg-rpc_5.3.3-3_mips64_octeon3.ipk
+Size: 8177
+SHA256sum: bed17a22df8b8f2cd1fb82caa0ab79c2a01b7989749009e305b57904276146bc
+Description:  Update parameters via RPC for Kamailio5
+
+Package: kamailio5-mod-cfgt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 26979
+Filename: kamailio5-mod-cfgt_5.3.3-3_mips64_octeon3.ipk
+Size: 27748
+SHA256sum: 3309b235221ce7ec1be9f6aed8f431dd7c5f00b5faa4ac2dafb35baaec134884
+Description:  Unit test reporting for Kamailio5
+
+Package: kamailio5-mod-cfgutils
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14675
+Filename: kamailio5-mod-cfgutils_5.3.3-3_mips64_octeon3.ipk
+Size: 15392
+SHA256sum: 09a3e54beeaba7b291cd6356ab359ce525a231a35f6c1b71d10295e77ed537b2
+Description:  Config utilities for Kamailio5
+
+Package: kamailio5-mod-cnxcc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, libhiredis, libevent2-7
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 49222
+Filename: kamailio5-mod-cnxcc_5.3.3-3_mips64_octeon3.ipk
+Size: 50005
+SHA256sum: 7b6a12afbce60d4d8719377d01736fd62ae6d83ae2dcb8eb5ba1d031d0369f6a
+Description:  Limit call duration for Kamailio5
+
+Package: kamailio5-mod-corex
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23663
+Filename: kamailio5-mod-corex_5.3.3-3_mips64_octeon3.ipk
+Size: 24352
+SHA256sum: 33ce1da1121bfdedb52db0d822f39e6f1c7c201f30083897360febe40d0d80d2
+Description:  Legacy functions for Kamailio5
+
+Package: kamailio5-mod-counters
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5323
+Filename: kamailio5-mod-counters_5.3.3-3_mips64_octeon3.ipk
+Size: 6040
+SHA256sum: 94e014d295b875080fb5f06399f34c766235ca783a820d7e251f99a42c410829
+Description:  Functions for counter manipulation for Kamailio5
+
+Package: kamailio5-mod-cplc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm, kamailio5-mod-usrloc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 107614
+Filename: kamailio5-mod-cplc_5.3.3-3_mips64_octeon3.ipk
+Size: 108318
+SHA256sum: eb6eae0e98ffb2b16887773e30708e960b0d899e9d6c2ff18b42a81afdec89be
+Description:  Call Processing Language interpreter for Kamailio5
+
+Package: kamailio5-mod-crypto
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12587
+Filename: kamailio5-mod-crypto_5.3.3-3_mips64_octeon3.ipk
+Size: 13347
+SHA256sum: c6c1f0f7a5fda8110a47af9fa2e6e54e6942ce99511ef1218a8b5d227a52e32d
+Description:  Various cryptography tools for Kamailio5
+
+Package: kamailio5-mod-ctl
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 60425
+Filename: kamailio5-mod-ctl_5.3.3-3_mips64_octeon3.ipk
+Size: 61222
+SHA256sum: 78b74bfeecec27640d3ad7909ec0310c6643afebe3d4e340890758cfa61c25e3
+Description:  BINRPC transport interface for Kamailio5
+
+Package: kamailio5-mod-db-berkeley
+Version: 5.3.3-3
+Depends: libc, kamailio5, libdb47
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 64297
+Filename: kamailio5-mod-db-berkeley_5.3.3-3_mips64_octeon3.ipk
+Size: 64980
+SHA256sum: b68fdcdb310fdbeb7da86f0b5c8dee4a528a05e16875f2edb8780082cba22023
+Description:  Berkeley DB backend for Kamailio5
+
+Package: kamailio5-mod-db-cluster
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20858
+Filename: kamailio5-mod-db-cluster_5.3.3-3_mips64_octeon3.ipk
+Size: 21601
+SHA256sum: 7a0471c57ac531cdc9a132c4376eccf42a949e7923aac92bf33231ad860341b5
+Description:  Database clustering system for Kamailio5
+
+Package: kamailio5-mod-db-flatstore
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18507
+Filename: kamailio5-mod-db-flatstore_5.3.3-3_mips64_octeon3.ipk
+Size: 19284
+SHA256sum: d38d2e14b17f4ef3531693db169aab4828c75bcb68d564344a26c7fef318f5ec
+Description:  fast write-only text DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-mysql
+Version: 5.3.3-3
+Depends: libc, kamailio5, libmysqlclient3
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 47461
+Filename: kamailio5-mod-db-mysql_5.3.3-3_mips64_octeon3.ipk
+Size: 48260
+SHA256sum: 2829fb50a92be6477648557e6e5be087ce91c7cdf5a1eff0d0725754f41b98c4
+Description:  MySQL DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-postgres
+Version: 5.3.3-3
+Depends: libc, kamailio5, libpq
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 62763
+Filename: kamailio5-mod-db-postgres_5.3.3-3_mips64_octeon3.ipk
+Size: 63545
+SHA256sum: b3ad6d58fc7dfae367b55dee2ecb8713a9cd3058a25adbdf321221d1d3088e07
+Description:  PostgreSQL DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-redis
+Version: 5.3.3-3
+Depends: libc, kamailio5, libhiredis
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 73669
+Filename: kamailio5-mod-db-redis_5.3.3-3_mips64_octeon3.ipk
+Size: 74410
+SHA256sum: 639916a3ac4cc1b8ee2279ef497710347c58e7f2245362da63f4544ec2eb45bd
+Description:  Database backend with Redis server for Kamailio5
+
+Package: kamailio5-mod-db-sqlite
+Version: 5.3.3-3
+Depends: libc, kamailio5, libsqlite3-0
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18910
+Filename: kamailio5-mod-db-sqlite_5.3.3-3_mips64_octeon3.ipk
+Size: 19664
+SHA256sum: 3abfa9280a01354de5b2a8fd95f1bed53b55fa6e2a1d6664e36011b84143bd5c
+Description:  SQLite DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-text
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 54150
+Filename: kamailio5-mod-db-text_5.3.3-3_mips64_octeon3.ipk
+Size: 54889
+SHA256sum: af39530865c97c46929cad87a1264bdbefb3d03de2240170780f442f140184d1
+Description:  Text DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-unixodbc
+Version: 5.3.3-3
+Depends: libc, kamailio5, unixodbc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 24270
+Filename: kamailio5-mod-db-unixodbc_5.3.3-3_mips64_octeon3.ipk
+Size: 25001
+SHA256sum: 96daeeffb99f6bc7540f5e43421dd6d7869cbbdccb2dd1504b9ece248e2c9903
+Description:  UnixODBC DB-backend for Kamailio5
+
+Package: kamailio5-mod-db2-ldap
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenldap
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 30698
+Filename: kamailio5-mod-db2-ldap_5.3.3-3_mips64_octeon3.ipk
+Size: 31456
+SHA256sum: a4d5c35473417a9598df8dffc29cc1c3bacd692bbcc75a4cd4692643ef9129f5
+Description:  DBv2 LDAP module for Kamailio5
+
+Package: kamailio5-mod-db2-ops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21104
+Filename: kamailio5-mod-db2-ops_5.3.3-3_mips64_octeon3.ipk
+Size: 21846
+SHA256sum: e7ecb9164515fe82838a6a5b52aa20d1ad7be241e9991c3e130274776ad36ea5
+Description:  Run SQL queries from script for Kamailio5
+
+Package: kamailio5-mod-debugger
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 29479
+Filename: kamailio5-mod-debugger_5.3.3-3_mips64_octeon3.ipk
+Size: 30229
+SHA256sum: 37c6e50a1426c24136b5b586437fa31df3d8594e02f60583a4544b144da4ca98
+Description:  Interactive config file debugger for Kamailio5
+
+Package: kamailio5-mod-dialog
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 139783
+Filename: kamailio5-mod-dialog_5.3.3-3_mips64_octeon3.ipk
+Size: 140440
+SHA256sum: 5cd17fd5f836009abc50c504ac82de9f8901a50203659b42f46e6c380a29285e
+Description:  Dialog support for Kamailio5
+
+Package: kamailio5-mod-dialplan
+Version: 5.3.3-3
+Depends: libc, kamailio5, libpcre
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 40362
+Filename: kamailio5-mod-dialplan_5.3.3-3_mips64_octeon3.ipk
+Size: 41233
+SHA256sum: 4690c5bdef1ec0f31b2bdae4d39b1e19349f6cf837e610de09f1691729207d9d
+Description:  Dialplan management for Kamailio5
+
+Package: kamailio5-mod-dispatcher
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 70464
+Filename: kamailio5-mod-dispatcher_5.3.3-3_mips64_octeon3.ipk
+Size: 71259
+SHA256sum: 87b2aed14fc0aa59cfc512722aa24ab80c98be55431ae6719d056d86d1426038
+Description:  Dispatcher for Kamailio5
+
+Package: kamailio5-mod-diversion
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 4350
+Filename: kamailio5-mod-diversion_5.3.3-3_mips64_octeon3.ipk
+Size: 5112
+SHA256sum: 8113f424ff7f1be03dcecabcab4a47fd38323f34f4c2ce7b3716ae13d46b9f28
+Description:  Diversion header insertion for Kamailio5
+
+Package: kamailio5-mod-dmq-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dmq, kamailio5-mod-usrloc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 19674
+Filename: kamailio5-mod-dmq-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 20477
+SHA256sum: c41d27996bd76488ab913ff4e3801b77c920419801703496f500c3a697127ee8
+Description:  DMQ USRLOC replication for Kamailio5
+
+Package: kamailio5-mod-dmq
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 38740
+Filename: kamailio5-mod-dmq_5.3.3-3_mips64_octeon3.ipk
+Size: 39568
+SHA256sum: 629064fa9c16dfeac7491b7a5b6a0b60232b12070b090cb2739f6be27465a4fa
+Description:  Distributed Message Queue for Kamailio5
+
+Package: kamailio5-mod-domain
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 17117
+Filename: kamailio5-mod-domain_5.3.3-3_mips64_octeon3.ipk
+Size: 17887
+SHA256sum: de919117dc0c6fed2035395f9b2c786462abb895a9cc8d759ade3df0eb7ea214
+Description:  Multi-domain support for Kamailio5
+
+Package: kamailio5-mod-domainpolicy
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 22133
+Filename: kamailio5-mod-domainpolicy_5.3.3-3_mips64_octeon3.ipk
+Size: 22902
+SHA256sum: 56c6848f795f8b7455818420a51987bd499e0fbdce87bc94d8e9f17ed335ba7a
+Description:  Domain policy for Kamailio5
+
+Package: kamailio5-mod-drouting
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 42000
+Filename: kamailio5-mod-drouting_5.3.3-3_mips64_octeon3.ipk
+Size: 42805
+SHA256sum: 65a8d31678ad0e9b87c21ff4aeb7e0d77ab8f70889c2084f5777ffe1902b0889
+Description:  Dynamic routing module for Kamailio5
+
+Package: kamailio5-mod-enum
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 17738
+Filename: kamailio5-mod-enum_5.3.3-3_mips64_octeon3.ipk
+Size: 18488
+SHA256sum: 050db073d3ff7f5fe563f7ce05c1a84f3000e5259d4e8cde43546a9e086469f8
+Description:  ENUM lookup for Kamailio5
+
+Package: kamailio5-mod-evapi
+Version: 5.3.3-3
+Depends: libc, kamailio5, libev
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 25984
+Filename: kamailio5-mod-evapi_5.3.3-3_mips64_octeon3.ipk
+Size: 26717
+SHA256sum: b3334e7b1d341719f0bf547f93dc23c23e8fb5aa751f93a25def8987f66b18ce
+Description:  push event details via tcp for Kamailio5
+
+Package: kamailio5-mod-evrexec
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6928
+Filename: kamailio5-mod-evrexec_5.3.3-3_mips64_octeon3.ipk
+Size: 7726
+SHA256sum: 5b85933147b5e63b85a7f51f935e60104e660db389b9e87d31f499e9da82057a
+Description:  Execut event routes at startup for Kamailio5
+
+Package: kamailio5-mod-exec
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20208
+Filename: kamailio5-mod-exec_5.3.3-3_mips64_octeon3.ipk
+Size: 20983
+SHA256sum: a784d941a546036a5d970c1f57091a25b5a3d100d6b4b296770c3ddc638e567f
+Description:  External exec for Kamailio5
+
+Package: kamailio5-mod-group
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12852
+Filename: kamailio5-mod-group_5.3.3-3_mips64_octeon3.ipk
+Size: 13606
+SHA256sum: e79304fe6594d585741b9ad18ee37451664cbad5c9a863153b3b673ac73313cb
+Description:  Database-backend user-groups for Kamailio5
+
+Package: kamailio5-mod-gzcompress
+Version: 5.3.3-3
+Depends: libc, kamailio5, zlib
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7445
+Filename: kamailio5-mod-gzcompress_5.3.3-3_mips64_octeon3.ipk
+Size: 8253
+SHA256sum: 643215685ad6a001c9caf09a51d14aa209a4cef637799ea3a9660ea9fabb4dfb
+Description:  Compress SIP messages for Kamailio5
+
+Package: kamailio5-mod-h350
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-ldap, libopenldap
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10837
+Filename: kamailio5-mod-h350_5.3.3-3_mips64_octeon3.ipk
+Size: 11585
+SHA256sum: a1b1c8937c62b1a0a0369ead2af696d6fc0824aa2ef984b1d2b29ea987f072ae
+Description:  H.350 for Kamailio5
+
+Package: kamailio5-mod-htable
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 63288
+Filename: kamailio5-mod-htable_5.3.3-3_mips64_octeon3.ipk
+Size: 64021
+SHA256sum: dcbad468a901037ee0935c4ecba05d7704c11d6253e98f54359f34bded6904e3
+Description:  Hash Table for Kamailio5
+
+Package: kamailio5-mod-http-client
+Version: 5.3.3-3
+Depends: libc, kamailio5, libcurl4
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 39637
+Filename: kamailio5-mod-http-client_5.3.3-3_mips64_octeon3.ipk
+Size: 40480
+SHA256sum: a3e811966d0da045e8c125b33c5ec99ededb166281b75305c41e9e51dbe5f62f
+Description:  HTTP client using CURL for Kamailio5
+
+Package: kamailio5-mod-imc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-db-mysql, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 40777
+Filename: kamailio5-mod-imc_5.3.3-3_mips64_octeon3.ipk
+Size: 41557
+SHA256sum: d47278d5d6d5486863b2a448ba5a034ceee212737a5e9d3b34751584803892ad
+Description:  IM conferencing for Kamailio5
+
+Package: kamailio5-mod-ims-auth
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 51503
+Filename: kamailio5-mod-ims-auth_5.3.3-3_mips64_octeon3.ipk
+Size: 52365
+SHA256sum: 287e9a0b3164a57c17c728f74363ca49744e5ef236b004964de93681294da314
+Description:  IMS authentication module for Kamailio5
+
+Package: kamailio5-mod-ims-charging
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 80676
+Filename: kamailio5-mod-ims-charging_5.3.3-3_mips64_octeon3.ipk
+Size: 81500
+SHA256sum: 8a9135d004c6b18b123183641cda40fe7b32dd894dca12d09394512e0f9e8909
+Description:  IMS charging component module for Kamailio5
+
+Package: kamailio5-mod-ims-dialog
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 105347
+Filename: kamailio5-mod-ims-dialog_5.3.3-3_mips64_octeon3.ipk
+Size: 106046
+SHA256sum: 3ae944918a672d340216d6e02aa576d2ddb3c63466e2bc9d0b6b1c931cba4ded
+Description:  IMS dialog tracking module for Kamailio5
+
+Package: kamailio5-mod-ims-diameter-server
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 24048
+Filename: kamailio5-mod-ims-diameter-server_5.3.3-3_mips64_octeon3.ipk
+Size: 24833
+SHA256sum: 67a7302519336c464820fdb95e06df90fa853801e51d268009c708e4970eabf6
+Description:  IMS DIAMETER server module for Kamailio5
+
+Package: kamailio5-mod-ims-icscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-sl, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 43808
+Filename: kamailio5-mod-ims-icscf_5.3.3-3_mips64_octeon3.ipk
+Size: 44647
+SHA256sum: 3df347d23fef72b79b7c2d8b417ef3d8189672b0942a23170319c3fde6315da5
+Description:  IMS ICSCF component module for Kamailio5
+
+Package: kamailio5-mod-ims-ipsec-pcscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-ims-usrloc-pcscf, kamailio5-mod-tm, libmnl0
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 34804
+Filename: kamailio5-mod-ims-ipsec-pcscf_5.3.3-3_mips64_octeon3.ipk
+Size: 35668
+SHA256sum: 40dfcc0afd03c2a34a05c6e3079f704f647e257627d49e3c98eb34862eddddde
+Description:  Diameter server implementation for Kamailio5
+
+Package: kamailio5-mod-ims-isc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-ims-usrloc-scscf, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 35648
+Filename: kamailio5-mod-ims-isc_5.3.3-3_mips64_octeon3.ipk
+Size: 36483
+SHA256sum: af1327c1c48a977e4077236a6ed97ea5a84d54317221b0aa0d35b92f256c7ffc
+Description:  IMS ISC component module for Kamailio5
+
+Package: kamailio5-mod-ims-ocs
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13085
+Filename: kamailio5-mod-ims-ocs_5.3.3-3_mips64_octeon3.ipk
+Size: 13889
+SHA256sum: e5f0959342229ca4d129953cf89bd15a94a85c820d1e43a1af85e1271f490f16
+Description:  MS OCS component module for Kamailio5
+
+Package: kamailio5-mod-ims-qos
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-ims-dialog, kamailio5-mod-ims-usrloc-pcscf, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 78259
+Filename: kamailio5-mod-ims-qos_5.3.3-3_mips64_octeon3.ipk
+Size: 79100
+SHA256sum: 3aa143577078b0f96c90288b36afa380e4fbc6f34aff9f66d2be58d756c60021
+Description:  IMS Diameter Rx interface between PCSCF and PCRF functions for Kamailio5
+
+Package: kamailio5-mod-ims-registrar-pcscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-ims-usrloc-pcscf
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 59450
+Filename: kamailio5-mod-ims-registrar-pcscf_5.3.3-3_mips64_octeon3.ipk
+Size: 60289
+SHA256sum: 2900dc6ed25e1ac3b7cbf583504dc0d4e31176fdcb3ea389d3df255de978f74e
+Description:  MS PCSCF registrar module for Kamailio5
+
+Package: kamailio5-mod-ims-registrar-scscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-ims-usrloc-scscf, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 135954
+Filename: kamailio5-mod-ims-registrar-scscf_5.3.3-3_mips64_octeon3.ipk
+Size: 136675
+SHA256sum: 4c03d79243aa0ef050df690dd41f0d051d71d7c0a933ec3300db6c1d44944fb5
+Description:  IMS SCSCF registrar module for Kamailio5
+
+Package: kamailio5-mod-ims-usrloc-pcscf
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 47449
+Filename: kamailio5-mod-ims-usrloc-pcscf_5.3.3-3_mips64_octeon3.ipk
+Size: 48310
+SHA256sum: 3c5013ae74031b9b2cf8a5aefe5376f02014169697c7a1f235a91040af2084fa
+Description:  IMS PCSCF usrloc module for Kamailio5
+
+Package: kamailio5-mod-ims-usrloc-scscf
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 102420
+Filename: kamailio5-mod-ims-usrloc-scscf_5.3.3-3_mips64_octeon3.ipk
+Size: 103216
+SHA256sum: 3394613ea4940e08a27daaeb292c0923f7b9738b87e1a4a143d054e6a81f064d
+Description:  IMS SCSCF usrloc module for Kamailio5
+
+Package: kamailio5-mod-ipops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 38661
+Filename: kamailio5-mod-ipops_5.3.3-3_mips64_octeon3.ipk
+Size: 39398
+SHA256sum: f5df2abe2ae31726a7fc7dde5d9373712e56e14e2a7a41397f8098960dee9d3c
+Description:  IP and IPv6 operations for Kamailio5
+
+Package: kamailio5-mod-jansson
+Version: 5.3.3-3
+Depends: libc, kamailio5, jansson
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11790
+Filename: kamailio5-mod-jansson_5.3.3-3_mips64_octeon3.ipk
+Size: 12539
+SHA256sum: 9c302cd6c95c12fbf00fb1ecb58f2513de8eadfafa56a3fb7b89fc88572d84b7
+Description:  Access to JSON attributes for Kamailio5
+
+Package: kamailio5-mod-janssonrpcc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-jansson, libevent2-7
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 50983
+Filename: kamailio5-mod-janssonrpcc_5.3.3-3_mips64_octeon3.ipk
+Size: 51852
+SHA256sum: 6a3a2e67e62aebb875420ead3c872e57bf18ffe76f4b332e7ca5fa6201dfd9e2
+Description:  Alternative JSONRPC server for Kamailio5
+
+Package: kamailio5-mod-json
+Version: 5.3.3-3
+Depends: libc, kamailio5, libjson-c5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14403
+Filename: kamailio5-mod-json_5.3.3-3_mips64_octeon3.ipk
+Size: 15191
+SHA256sum: 011a399e74dff8119b9acc4153f1ea9e731e60382e82c41caf6496968929c8aa
+Description:  Access to JSON document attributes for Kamailio5
+
+Package: kamailio5-mod-jsonrpcs
+Version: 5.3.3-3
+Depends: libc, kamailio5, libevent2-7
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 43875
+Filename: kamailio5-mod-jsonrpcs_5.3.3-3_mips64_octeon3.ipk
+Size: 44717
+SHA256sum: 5913d2c4e11c39e7d768335057910eade2c68a4aa401d46c746302d8f4230d13
+Description:  JSONRPC server over HTTP for Kamailio5
+
+Package: kamailio5-mod-keepalive
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8421
+Filename: kamailio5-mod-keepalive_5.3.3-3_mips64_octeon3.ipk
+Size: 9234
+SHA256sum: 06098486855905ac6f93febd5446f462e3e239987b60c9975b477fdc094effd6
+Description:  SIP keepalive monitoring for Kamailio5
+
+Package: kamailio5-mod-kemix
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6745
+Filename: kamailio5-mod-kemix_5.3.3-3_mips64_octeon3.ipk
+Size: 7519
+SHA256sum: dea9e4fb1eda0d84982a007143a8da293bbb4e5e1462e546d6db83f62005d9d8
+Description:  KEMI extensions for Kamailio5
+
+Package: kamailio5-mod-kex
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 15984
+Filename: kamailio5-mod-kex_5.3.3-3_mips64_octeon3.ipk
+Size: 16618
+SHA256sum: f4d73b5ac124fad25fa18154f5ff5792fc9198800a5f9fc5d26a98fbb495e260
+Description:  Core extensions for Kamailio5
+
+Package: kamailio5-mod-lcr
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm, libpcre
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 53258
+Filename: kamailio5-mod-lcr_5.3.3-3_mips64_octeon3.ipk
+Size: 53929
+SHA256sum: 0a3c72277a4008ad2e66b5d16f6d3e83f029eac16e891a8a0a8f5d640d856215
+Description:  Least Cost Routing for Kamailio5
+
+Package: kamailio5-mod-ldap
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenldap
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23496
+Filename: kamailio5-mod-ldap_5.3.3-3_mips64_octeon3.ipk
+Size: 24266
+SHA256sum: 343b4ef902c72f469f4abf646940c4fb721cf3b4e435ce0749b8a64ca1689496
+Description:  LDAP connector for Kamailio5
+
+Package: kamailio5-mod-log-custom
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3847
+Filename: kamailio5-mod-log-custom_5.3.3-3_mips64_octeon3.ipk
+Size: 4614
+SHA256sum: 62153b8bae210b73e594bb37554cc648b2e43553e89515f9fd29ed60828a82c7
+Description:  Logging to custom backends for Kamailio5
+
+Package: kamailio5-mod-lost
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-http-client
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 24006
+Filename: kamailio5-mod-lost_5.3.3-3_mips64_octeon3.ipk
+Size: 24733
+SHA256sum: 8b74c4ba44f93d53c60d396989d0ea34f71fb0d742f69b354134d13a2356b0b2
+Description:  HELD and LOST routing for Kamailio5
+
+Package: kamailio5-mod-mangler
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20649
+Filename: kamailio5-mod-mangler_5.3.3-3_mips64_octeon3.ipk
+Size: 21399
+SHA256sum: 3febe9493ffb3dd1c2577071901dd64aa5002ce9ec045d3b41fea76d96cc235e
+Description:  SDP mangling for Kamailio5
+
+Package: kamailio5-mod-matrix
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10596
+Filename: kamailio5-mod-matrix_5.3.3-3_mips64_octeon3.ipk
+Size: 11371
+SHA256sum: 56b25b1ccb54ddbf3a51841a20a8c4558a4d8952a349424b4124879f9a8ec1b6
+Description:  Matrix operations for Kamailio5
+
+Package: kamailio5-mod-maxfwd
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6407
+Filename: kamailio5-mod-maxfwd_5.3.3-3_mips64_octeon3.ipk
+Size: 7198
+SHA256sum: 65e4e8c669da270db0535b335ab76eafa4dd921cac79dbe3ee1566eb906caeef
+Description:  Max-Forward processor for Kamailio5
+
+Package: kamailio5-mod-mediaproxy
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 26883
+Filename: kamailio5-mod-mediaproxy_5.3.3-3_mips64_octeon3.ipk
+Size: 27642
+SHA256sum: 643df94bb628724cb856cd38d23bb9e0796a7d1776cd73c3c634e7b110160eca
+Description:  Automatic NAT traversal for Kamailio5
+
+Package: kamailio5-mod-mohqueue
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rtpproxy, kamailio5-mod-sl, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 45267
+Filename: kamailio5-mod-mohqueue_5.3.3-3_mips64_octeon3.ipk
+Size: 46104
+SHA256sum: 991c13a8e2c8951fc4bb455230e85d8c89f79ca986036dcaa6c2ca7962dafbde
+Description:  Music on hold queuing system for Kamailio5
+
+Package: kamailio5-mod-mqueue
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11538
+Filename: kamailio5-mod-mqueue_5.3.3-3_mips64_octeon3.ipk
+Size: 12264
+SHA256sum: d24326ed7f9be47c7bde3e7331b8e0cbfcd2b297093143435bf9708da3480216
+Description:  Generic message queue system for Kamailio5
+
+Package: kamailio5-mod-msilo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 32472
+Filename: kamailio5-mod-msilo_5.3.3-3_mips64_octeon3.ipk
+Size: 33271
+SHA256sum: 1a651ea807fdc348fc5dcb7a2a7c32236c062896857b7cdf1721b3c42404c194
+Description:  SIP message silo for Kamailio5
+
+Package: kamailio5-mod-msrp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tls
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 35555
+Filename: kamailio5-mod-msrp_5.3.3-3_mips64_octeon3.ipk
+Size: 36341
+SHA256sum: 2da05b128029ac8519688faab71cc77f5924c7cf475cf76cc381586d023a54e7
+Description:  MSRP routing engine for Kamailio5
+
+Package: kamailio5-mod-mtree
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 31493
+Filename: kamailio5-mod-mtree_5.3.3-3_mips64_octeon3.ipk
+Size: 32222
+SHA256sum: 218af935e5bea8b02258a680dab36a7cd716c25117719ec4c01349e2fc99b3ea
+Description:  Memory caching system for Kamailio5
+
+Package: kamailio5-mod-nat-traversal
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-sl, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 25241
+Filename: kamailio5-mod-nat-traversal_5.3.3-3_mips64_octeon3.ipk
+Size: 25962
+SHA256sum: ea8f947fa96d1a549c81b445017bef9b5d8de05790a417d09bac86e097eceb0e
+Description:  NAT traversal for Kamailio5
+
+Package: kamailio5-mod-nathelper
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-usrloc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 41118
+Filename: kamailio5-mod-nathelper_5.3.3-3_mips64_octeon3.ipk
+Size: 41919
+SHA256sum: 39a6e1d6ac9b126a67f8df4baef82184a600bfa4d317630c31a748be79cf0114
+Description:  NAT helper for Kamailio5
+
+Package: kamailio5-mod-ndb-redis
+Version: 5.3.3-3
+Depends: libc, kamailio5, libhiredis
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 33691
+Filename: kamailio5-mod-ndb-redis_5.3.3-3_mips64_octeon3.ipk
+Size: 34510
+SHA256sum: 3ab3167b2197e708e655765339bd04c41fa9633fdaf713089374fe80ce9c352f
+Description:  Connect to REDIS NoSQL for Kamailio5
+
+Package: kamailio5-mod-nosip
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3608
+Filename: kamailio5-mod-nosip_5.3.3-3_mips64_octeon3.ipk
+Size: 4365
+SHA256sum: 48bc63ba43b0c6c7f000430a98a22c4568ffd92daaa6e9c6ee08e1b8e625e6c0
+Description:  non-sip package handling for Kamailio5
+
+Package: kamailio5-mod-outbound
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-stun, libopenssl1.1
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10079
+Filename: kamailio5-mod-outbound_5.3.3-3_mips64_octeon3.ipk
+Size: 10871
+SHA256sum: 775a4bfdc14fcc0deea925c115647cc6831f4595e4087116e0ba4689090f3254
+Description:  SIP Outbound implementation for Kamailio5
+
+Package: kamailio5-mod-p-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 76149
+Filename: kamailio5-mod-p-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 76816
+SHA256sum: 8898d6d7f05f41d1433e3a6170b942399aa75852f885abae3a881b5eb6f12db8
+Description:  Partitioned USRLOC services for Kamailio5
+
+Package: kamailio5-mod-path
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9508
+Filename: kamailio5-mod-path_5.3.3-3_mips64_octeon3.ipk
+Size: 10278
+SHA256sum: f1fa1f46226c0c16b945a5dac52dcf029271d093db10cb4735a09b67dec82a18
+Description:  SIP path insertion for Kamailio5
+
+Package: kamailio5-mod-pdb
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13975
+Filename: kamailio5-mod-pdb_5.3.3-3_mips64_octeon3.ipk
+Size: 14730
+SHA256sum: 0e735a13244793df23b4fcc810e45a70a7b75d5feff4c3c4f80cca268febb2ab
+Description:  Number portability module for Kamailio5
+
+Package: kamailio5-mod-pdt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 19203
+Filename: kamailio5-mod-pdt_5.3.3-3_mips64_octeon3.ipk
+Size: 20003
+SHA256sum: 899e29a3038787ef6077049ce01ededaa3fb797499ffdb589d7e728d127c747d
+Description:  Prefix-to-Domain translator for Kamailio5
+
+Package: kamailio5-mod-permissions
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 49013
+Filename: kamailio5-mod-permissions_5.3.3-3_mips64_octeon3.ipk
+Size: 49797
+SHA256sum: 749936cb8b43c25cb0cfca434ec433f826f641931b6b5446c39459f42efcbb40
+Description:  Permissions control for Kamailio5
+
+Package: kamailio5-mod-pike
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 17953
+Filename: kamailio5-mod-pike_5.3.3-3_mips64_octeon3.ipk
+Size: 18712
+SHA256sum: cc50720100a5cb715b4b1e9ce5032e237aca154b2b2b373595ebe76de25a82eb
+Description:  Flood detector for Kamailio5
+
+Package: kamailio5-mod-pipelimit
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23695
+Filename: kamailio5-mod-pipelimit_5.3.3-3_mips64_octeon3.ipk
+Size: 24453
+SHA256sum: d753578dc5a90da83efc16d82d8670e978e1e77b11b6caad13a5c7a6ef13bb94
+Description:  Traffic shaping policies for Kamailio5
+
+Package: kamailio5-mod-prefix-route
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10638
+Filename: kamailio5-mod-prefix-route_5.3.3-3_mips64_octeon3.ipk
+Size: 11402
+SHA256sum: bc50ea9623c48b6be146038e1824614381ed39b2f6c0fc46a9b517e060c46c34
+Description:  Execute based on prefix for Kamailio5
+
+Package: kamailio5-mod-presence-conference
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7887
+Filename: kamailio5-mod-presence-conference_5.3.3-3_mips64_octeon3.ipk
+Size: 8700
+SHA256sum: 16fb81c5615d0cdf72cc465bb5862198d59a8db0f3526b9fa7a20f2de7062c4a
+Description:  Conference events for Kamailio5
+
+Package: kamailio5-mod-presence-dialoginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14642
+Filename: kamailio5-mod-presence-dialoginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 15396
+SHA256sum: 5645792640194eebe1a1889872d2644ad9ec110dae8066e40ced59485a39d905
+Description:  Dialog Event presence for Kamailio5
+
+Package: kamailio5-mod-presence-mwi
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3932
+Filename: kamailio5-mod-presence-mwi_5.3.3-3_mips64_octeon3.ipk
+Size: 4684
+SHA256sum: 218da76411dfee39986d9503e8d45e16e587ac9b5f48a511784d1d32010e5d22
+Description:  MWI presence for Kamailio5
+
+Package: kamailio5-mod-presence-profile
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2863
+Filename: kamailio5-mod-presence-profile_5.3.3-3_mips64_octeon3.ipk
+Size: 3632
+SHA256sum: c9548f9de9c16fa7c30f9d94752999bfca0ffa90133858acf9bb64617a14cef8
+Description:  User profile extensions for Kamailio5
+
+Package: kamailio5-mod-presence-reginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2875
+Filename: kamailio5-mod-presence-reginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 3642
+SHA256sum: e150cb518d60fa1555dbd3f744f1e68ac5c94120172fc3399bf7df37b09a79d7
+Description:  Registration info for Kamailio5
+
+Package: kamailio5-mod-presence-xml
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-xcap-client
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 35310
+Filename: kamailio5-mod-presence-xml_5.3.3-3_mips64_octeon3.ipk
+Size: 36124
+SHA256sum: 151b3e315032fcec9d938e39efe201a20148a2ae6c1d4b96021fce7c113234b4
+Description:  XCAP presence for Kamailio5
+
+Package: kamailio5-mod-presence
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 160429
+Filename: kamailio5-mod-presence_5.3.3-3_mips64_octeon3.ipk
+Size: 161118
+SHA256sum: 945951429bd4da884f3aae5d37367532c9ed3af96e28b5ea812f3170ed2cc183
+Description:  Presence server for Kamailio5
+
+Package: kamailio5-mod-pua-bla
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-pua, kamailio5-mod-usrloc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10431
+Filename: kamailio5-mod-pua-bla_5.3.3-3_mips64_octeon3.ipk
+Size: 11195
+SHA256sum: 26ddd1a17166fb43391370748e6a05e28c4ac9d56a603b664c31c82890f1b6cb
+Description:  Bridged Line Appearence PUA for Kamailio5
+
+Package: kamailio5-mod-pua-dialoginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-pua
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 17306
+Filename: kamailio5-mod-pua-dialoginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 18060
+SHA256sum: e2d87e6c3680c5eba3ecb067ad1f8b88c4a02be7dc76f46f05810f250eda5ee9
+Description:  Dialog Event PUA for Kamailio5
+
+Package: kamailio5-mod-pua-json
+Version: 5.3.3-3
+Depends: libc, kamailio5, libjson-c5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8027
+Filename: kamailio5-mod-pua-json_5.3.3-3_mips64_octeon3.ipk
+Size: 8833
+SHA256sum: 3b488ff614ab36247c36068653e4202bb47df3b3ac503aab39579dc0b1879b15
+Description:  Presence user agent implementation with JSON messages for Kamailio5
+
+Package: kamailio5-mod-pua-reginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-pua, kamailio5-mod-usrloc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18903
+Filename: kamailio5-mod-pua-reginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 19690
+SHA256sum: dd172a6625654ac039ec24cea53acea03857d8b4f9f5ff7a3835ea6147e89373
+Description:  PUA registration info for Kamailio5
+
+Package: kamailio5-mod-pua-rpc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-pua
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8817
+Filename: kamailio5-mod-pua-rpc_5.3.3-3_mips64_octeon3.ipk
+Size: 9585
+SHA256sum: eae5e3d5d8110146a98d7a1fefb5dfb582cb90a5aeee7ed207d6b83b73fc3d89
+Description:  RPC extensions for PUA for Kamailio5
+
+Package: kamailio5-mod-pua-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-pua, kamailio5-mod-usrloc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9806
+Filename: kamailio5-mod-pua-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 10574
+SHA256sum: 2466faadb8c731ee7260e65fe810b7cb3e27d3f48eb7a2c54bec3f63d2a8944b
+Description:  PUA User Location for Kamailio5
+
+Package: kamailio5-mod-pua-xmpp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-pua, kamailio5-mod-xmpp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 28029
+Filename: kamailio5-mod-pua-xmpp_5.3.3-3_mips64_octeon3.ipk
+Size: 28837
+SHA256sum: d0d111d376678b31ed1fa66b690623790e9808bb34dddb2c99a0386ff2192ef3
+Description:  PUA XMPP for Kamailio5
+
+Package: kamailio5-mod-pua
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 76277
+Filename: kamailio5-mod-pua_5.3.3-3_mips64_octeon3.ipk
+Size: 77007
+SHA256sum: f6cc7132fef6cc2169f65ca6b9a502ea1244de95662874dbf46debdf3f79da06
+Description:  Presence User Agent for Kamailio5
+
+Package: kamailio5-mod-pv
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 114871
+Filename: kamailio5-mod-pv_5.3.3-3_mips64_octeon3.ipk
+Size: 115427
+SHA256sum: a30c3f3bfdb641e1c97678add713b64c1f03340d25daeea38381b0613db1475c
+Description:  Pseudo-Variables for Kamailio5
+
+Package: kamailio5-mod-qos
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21307
+Filename: kamailio5-mod-qos_5.3.3-3_mips64_octeon3.ipk
+Size: 22079
+SHA256sum: 7263b6da8920e2b44614f2b416d463be35964c477b707886b674f3d0705373ca
+Description:  QoS control for Kamailio5
+
+Package: kamailio5-mod-ratelimit
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20906
+Filename: kamailio5-mod-ratelimit_5.3.3-3_mips64_octeon3.ipk
+Size: 21664
+SHA256sum: 5449175927bcd4ace3dba7f432f8e91663a5687a04414b7da071dcb979ca12c9
+Description:  Traffic shapping for Kamailio5
+
+Package: kamailio5-mod-regex
+Version: 5.3.3-3
+Depends: libc, kamailio5, libpcre
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12956
+Filename: kamailio5-mod-regex_5.3.3-3_mips64_octeon3.ipk
+Size: 13729
+SHA256sum: 44c9f890fab7814ef89426d44451cfaa354ff3f1ba610876ec3f33729ba8cbd4
+Description:  Regular Expression for Kamailio5
+
+Package: kamailio5-mod-registrar
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-usrloc
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 58438
+Filename: kamailio5-mod-registrar_5.3.3-3_mips64_octeon3.ipk
+Size: 59261
+SHA256sum: d09b3148d0ccc3706a6b14a1a8a7a6536f91436848456b83ab92a3213fff6b78
+Description:  SIP Registrar for Kamailio5
+
+Package: kamailio5-mod-rls
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-pua, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 91346
+Filename: kamailio5-mod-rls_5.3.3-3_mips64_octeon3.ipk
+Size: 92106
+SHA256sum: eaabd8060a1765e342b48e5e5c914e1254a56395684e52f9ecbaddc6c6cbdff4
+Description:  Resource List Server for Kamailio5
+
+Package: kamailio5-mod-rr
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 36299
+Filename: kamailio5-mod-rr_5.3.3-3_mips64_octeon3.ipk
+Size: 37086
+SHA256sum: 34bd03e89f6be6aa5f242c2cfa060fa11498bd59841242d45da0ebc712e2eb28
+Description:  Record-Route and Route for Kamailio5
+
+Package: kamailio5-mod-rtimer
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6974
+Filename: kamailio5-mod-rtimer_5.3.3-3_mips64_octeon3.ipk
+Size: 7759
+SHA256sum: 0f4b3cc281cc49c33fce6cdcbe7215e07c4c89552f092873faf2c559f8335145
+Description:  Routing Timer for Kamailio5
+
+Package: kamailio5-mod-rtjson
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12086
+Filename: kamailio5-mod-rtjson_5.3.3-3_mips64_octeon3.ipk
+Size: 12862
+SHA256sum: f4500fadca56ac4ebb656d33235a583a5eaab8e70a4ac7d6673a366290b4dce3
+Description:  SIP routing based on JSON API for Kamailio5
+
+Package: kamailio5-mod-rtpengine
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 68230
+Filename: kamailio5-mod-rtpengine_5.3.3-3_mips64_octeon3.ipk
+Size: 69008
+SHA256sum: 6f6c35b66980b265e1464bcb2324a53964c9ef1d5970fc5e191da4b4ca485794
+Description:  RTP engine for Kamailio5
+
+Package: kamailio5-mod-rtpproxy
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 43448
+Filename: kamailio5-mod-rtpproxy_5.3.3-3_mips64_octeon3.ipk
+Size: 44242
+SHA256sum: fbaacf0236a7ef9237472babade2d778c4bb96cb570f27c74539174b152c1b75
+Description:  RTP proxy for Kamailio5
+
+Package: kamailio5-mod-sanity
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 22617
+Filename: kamailio5-mod-sanity_5.3.3-3_mips64_octeon3.ipk
+Size: 23348
+SHA256sum: 1dee38000371a2e5af8394ce95857ad6f4ffe72e0eb75f35bf6877566ccd95e1
+Description:  SIP sanity checks for Kamailio5
+
+Package: kamailio5-mod-sca
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 100330
+Filename: kamailio5-mod-sca_5.3.3-3_mips64_octeon3.ipk
+Size: 101104
+SHA256sum: 9d32f6d6e66b07b2bbe278485e1702dcecc469a9090a81e98d8181b9ca5ce2d8
+Description:  Shared Call Appearances for Kamailio5
+
+Package: kamailio5-mod-sctp
+Version: 5.3.3-3
+Depends: libc, kamailio5, libsctp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 34113
+Filename: kamailio5-mod-sctp_5.3.3-3_mips64_octeon3.ipk
+Size: 34933
+SHA256sum: cdb7488bf9c2082d72188e2f30f1281968046872008d13d44cb0f358628cfd74
+Description:  SCTP support for Kamailio5
+
+Package: kamailio5-mod-sdpops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 29337
+Filename: kamailio5-mod-sdpops_5.3.3-3_mips64_octeon3.ipk
+Size: 30052
+SHA256sum: 5e36dae11e5fa2f17ec491cb646379703be7e890c1e633289ab734970482e4d0
+Description:  Managing SDP payloads for Kamailio5
+
+Package: kamailio5-mod-seas
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 101139
+Filename: kamailio5-mod-seas_5.3.3-3_mips64_octeon3.ipk
+Size: 101954
+SHA256sum: 65b28cd261535703c79047d2ab17579507d3baf82c8031228052d2df0cb08703
+Description:  Sip Express Application Server for Kamailio5
+
+Package: kamailio5-mod-secfilter
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20170
+Filename: kamailio5-mod-secfilter_5.3.3-3_mips64_octeon3.ipk
+Size: 20912
+SHA256sum: 864b24d2b3267a5bc64779073f8277c61e956f5dca6dc2a4c5acb653e6cbf61c
+Description:  Allow/block filters for Kamailio5
+
+Package: kamailio5-mod-sipcapture
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 51404
+Filename: kamailio5-mod-sipcapture_5.3.3-3_mips64_octeon3.ipk
+Size: 52057
+SHA256sum: 39707b5606664f5a86a101131a291a05d41ea5d6f5f94dbaacf4ec7038bbd109
+Description:  SIP capture for Kamailio5
+
+Package: kamailio5-mod-sipdump
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10614
+Filename: kamailio5-mod-sipdump_5.3.3-3_mips64_octeon3.ipk
+Size: 11375
+SHA256sum: c28aa3b177a712c73a0427401d359e2e49baf76ae4af0159e8c6839b3af2a06a
+Description:  Save SIP traffic for Kamailio5
+
+Package: kamailio5-mod-sipt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13101
+Filename: kamailio5-mod-sipt_5.3.3-3_mips64_octeon3.ipk
+Size: 13848
+SHA256sum: 33e2c99c9f504586e78636e78afaccbbcef8e33fa52a05f267c2978b0f551949
+Description:  SIP-T and SIP-I operations for Kamailio5
+
+Package: kamailio5-mod-siptrace
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 52922
+Filename: kamailio5-mod-siptrace_5.3.3-3_mips64_octeon3.ipk
+Size: 53737
+SHA256sum: 657b31b2ef0561e9b0e5661fa5dfc6ca77b3425fe826c9ddb6feb675de729468
+Description:  SIP trace for Kamailio5
+
+Package: kamailio5-mod-siputils
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 46776
+Filename: kamailio5-mod-siputils_5.3.3-3_mips64_octeon3.ipk
+Size: 47544
+SHA256sum: 9a12218b7632bf6195425ec8a7b6ea0bf091706904dc740066c4e64074bb80b1
+Description:  SIP utilities for Kamailio5
+
+Package: kamailio5-mod-sl
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 22986
+Filename: kamailio5-mod-sl_5.3.3-3_mips64_octeon3.ipk
+Size: 23691
+SHA256sum: 7447d695b3b1a85ab281a93ba172dfcd5753c242deb458c9bee9131a89447104
+Description:  Stateless replier for Kamailio5
+
+Package: kamailio5-mod-sms
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 41106
+Filename: kamailio5-mod-sms_5.3.3-3_mips64_octeon3.ipk
+Size: 41929
+SHA256sum: 16ad79cce7ae278b7253ae58ddd28354112134af9b42fec6e1d7e96f4033a547
+Description:  SIP-to-SMS IM gateway for Kamailio5
+
+Package: kamailio5-mod-smsops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13864
+Filename: kamailio5-mod-smsops_5.3.3-3_mips64_octeon3.ipk
+Size: 14600
+SHA256sum: d90609db78572f1b6c39d9ddd1bd223d2e9626dc28964313f9016bb357aeea5a
+Description:  Handle SMS packets in SIP for Kamailio5
+
+Package: kamailio5-mod-snmpstats
+Version: 5.3.3-3
+Depends: libc, kamailio5, libnetsnmp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 65416
+Filename: kamailio5-mod-snmpstats_5.3.3-3_mips64_octeon3.ipk
+Size: 65742
+SHA256sum: 3fb0d917143fec3cd87b6e0fdf27c06e1ce8ec185823bc54624292a5e2d403da
+Description:  SNMP interface for statistics for Kamailio5
+
+Package: kamailio5-mod-speeddial
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6658
+Filename: kamailio5-mod-speeddial_5.3.3-3_mips64_octeon3.ipk
+Size: 7462
+SHA256sum: d4b4ef2cb7985c8f20182426db621cdef23a8ce3de3104c63f89b475880b5823
+Description:  Per-user speed-dial controller for Kamailio5
+
+Package: kamailio5-mod-sqlops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 24953
+Filename: kamailio5-mod-sqlops_5.3.3-3_mips64_octeon3.ipk
+Size: 25637
+SHA256sum: a4732c303bbb1172386f5827fb0e29625f715f2ee157eb9281e50b9587f7a698
+Description:  SQL operations for Kamailio5
+
+Package: kamailio5-mod-ss7ops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21469
+Filename: kamailio5-mod-ss7ops_5.3.3-3_mips64_octeon3.ipk
+Size: 22026
+SHA256sum: b43e3c73a32aa27a2935a39a614495f0e0acb9b79fdacbc5b880300f5c38da7a
+Description:  JSON Operations for SS7 over HEP for Kamailio5
+
+Package: kamailio5-mod-sst
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-sl
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 16048
+Filename: kamailio5-mod-sst_5.3.3-3_mips64_octeon3.ipk
+Size: 16802
+SHA256sum: 76a2a197f3cc6a4153d77ef117160944955ae285140da601fd35fb1add364ab2
+Description:  SIP Session Timer for Kamailio5
+
+Package: kamailio5-mod-statistics
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6415
+Filename: kamailio5-mod-statistics_5.3.3-3_mips64_octeon3.ipk
+Size: 7208
+SHA256sum: 4969704d63adcc0dd9645e13660f2e1aa37bd81886c0ddbbb8a7963692a57a35
+Description:  Script statistics for Kamailio5
+
+Package: kamailio5-mod-statsc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6956
+Filename: kamailio5-mod-statsc_5.3.3-3_mips64_octeon3.ipk
+Size: 7735
+SHA256sum: 5db7ea8f25a4004778d88bf2dcc10d0fe76492ea10a5e32302f8f41a3acca9e7
+Description:  Statistics collector for Kamailio5
+
+Package: kamailio5-mod-statsd
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7211
+Filename: kamailio5-mod-statsd_5.3.3-3_mips64_octeon3.ipk
+Size: 7993
+SHA256sum: 9b5214a38a7b785caeeeade942053cc4fbe15cab7b43a9e7032cb88e1f5ffdc1
+Description:  Connector for statsd application for Kamailio5
+
+Package: kamailio5-mod-stun
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11351
+Filename: kamailio5-mod-stun_5.3.3-3_mips64_octeon3.ipk
+Size: 12122
+SHA256sum: 072db83ad9d4439c001240322aeefea5991d1a3062f486b2c75b03ceeacf166a
+Description:  STUN server support for Kamailio5
+
+Package: kamailio5-mod-tcpops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14225
+Filename: kamailio5-mod-tcpops_5.3.3-3_mips64_octeon3.ipk
+Size: 14947
+SHA256sum: 35e26fe07f4a8a845d060814cde6ef7a672870cba8d3546e7562e48d1d5f6812
+Description:  TCP options tweaking operations for Kamailio5
+
+Package: kamailio5-mod-textops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 61124
+Filename: kamailio5-mod-textops_5.3.3-3_mips64_octeon3.ipk
+Size: 61762
+SHA256sum: f8ef7aa07d422d2974687c07ce5ba40008260cbc7597deea9fb3cda45fb16f55
+Description:  Text operations for Kamailio5
+
+Package: kamailio5-mod-textopsx
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20742
+Filename: kamailio5-mod-textopsx_5.3.3-3_mips64_octeon3.ipk
+Size: 21493
+SHA256sum: 8ea47676d1f66f47c119e87b045c39b97a4cb841c270a149ca4aad0fc1037d50
+Description:  Extra text operations for Kamailio5
+
+Package: kamailio5-mod-timer
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8255
+Filename: kamailio5-mod-timer_5.3.3-3_mips64_octeon3.ipk
+Size: 9052
+SHA256sum: adbdd11966060d3c895fc4eadf2ed868d0ed57dc5cd5e89a8834814f1e4e177b
+Description:  Execute routing blocks on core timers for Kamailio5
+
+Package: kamailio5-mod-tls
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 112625
+Filename: kamailio5-mod-tls_5.3.3-3_mips64_octeon3.ipk
+Size: 112018
+SHA256sum: d3ab5bb6142eadc09baf53413df49c6c9ad48d58e66d355f6cb9c39f1d70bdc2
+Description:  TLS operations for Kamailio5
+
+Package: kamailio5-mod-tm
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 242321
+Filename: kamailio5-mod-tm_5.3.3-3_mips64_octeon3.ipk
+Size: 242714
+SHA256sum: 5e9650273418ce6fe1ca12afde70d230ebe7e001eec239c1af503ba05fbd1ad5
+Description:  Transaction for Kamailio5
+
+Package: kamailio5-mod-tmrec
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6197
+Filename: kamailio5-mod-tmrec_5.3.3-3_mips64_octeon3.ipk
+Size: 6994
+SHA256sum: 209a1b010e778972717823194ee6e558bc317056356c569240bee675f91a8879
+Description:  Match time recurrences for Kamailio5
+
+Package: kamailio5-mod-tmx
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23728
+Filename: kamailio5-mod-tmx_5.3.3-3_mips64_octeon3.ipk
+Size: 24432
+SHA256sum: 87b6e76a58589611531b1d03b6892a80f122dc9d96ba136fc0019163adc0c847
+Description:  Transaction module extensions for Kamailio5
+
+Package: kamailio5-mod-topoh
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 30500
+Filename: kamailio5-mod-topoh_5.3.3-3_mips64_octeon3.ipk
+Size: 31231
+SHA256sum: fc2d53ba1dc119a7742d39dcfa5ae5617d95f16bad70701f5691d3ee5afd4db1
+Description:  Topology hiding for Kamailio5
+
+Package: kamailio5-mod-topos-redis
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-ndb-redis, kamailio5-mod-topos
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 25482
+Filename: kamailio5-mod-topos-redis_5.3.3-3_mips64_octeon3.ipk
+Size: 26181
+SHA256sum: 182a3d772c0debb1f6b2ae60cfb863a23c87077ceb139b89cd94892020addbf0
+Description:  Redis backend for topos module for Kamailio5
+
+Package: kamailio5-mod-topos
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 38108
+Filename: kamailio5-mod-topos_5.3.3-3_mips64_octeon3.ipk
+Size: 38832
+SHA256sum: e3efee2c03318e3c6ba321ff7f3963d2708b5c9eecba7ad9d79f48d4f06b7378
+Description:  Topology stripping module for Kamailio5
+
+Package: kamailio5-mod-tsilo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-registrar, kamailio5-mod-sl, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18568
+Filename: kamailio5-mod-tsilo_5.3.3-3_mips64_octeon3.ipk
+Size: 19312
+SHA256sum: 2798b53c9d5ce905c5c77a49262cb2c3f5960fc3f1ad5ae5fa6a1e2e217c8910
+Description:  Transaction storage for Kamailio5
+
+Package: kamailio5-mod-uac-redirect
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12174
+Filename: kamailio5-mod-uac-redirect_5.3.3-3_mips64_octeon3.ipk
+Size: 12968
+SHA256sum: c01a02669725e8eb61b3e6535365e950e76983c20839613b173b6e119af7a4bc
+Description:  User Agent Client redirection for Kamailio5
+
+Package: kamailio5-mod-uac
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 75266
+Filename: kamailio5-mod-uac_5.3.3-3_mips64_octeon3.ipk
+Size: 76043
+SHA256sum: 98939043e354892e9237ad9aab6466cf3bf49a099cd1fd9267434444dfd0622e
+Description:  User Agent Client for Kamailio5
+
+Package: kamailio5-mod-uid-auth-db
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-auth
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12282
+Filename: kamailio5-mod-uid-auth-db_5.3.3-3_mips64_octeon3.ipk
+Size: 13060
+SHA256sum: adb3702fe785708308d1a0355087327100a62a4ba9a12020f00656e08aee5c61
+Description:  Authentication module for Kamailio5
+
+Package: kamailio5-mod-uid-avp-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13327
+Filename: kamailio5-mod-uid-avp-db_5.3.3-3_mips64_octeon3.ipk
+Size: 14078
+SHA256sum: e87ce9f58b1cc95f273fa9aeb34e3df1b3ee426532902446d8c2cfa68504fec1
+Description:  AVP database operations for Kamailio5
+
+Package: kamailio5-mod-uid-domain
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13840
+Filename: kamailio5-mod-uid-domain_5.3.3-3_mips64_octeon3.ipk
+Size: 14552
+SHA256sum: 791d204aa88ba350d206c630fc20343f84d9a628d96b1b7d4e306d900b0a070a
+Description:  Domains management for Kamailio5
+
+Package: kamailio5-mod-uid-gflags
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7399
+Filename: kamailio5-mod-uid-gflags_5.3.3-3_mips64_octeon3.ipk
+Size: 8198
+SHA256sum: 85b1187f5b40d3eee85770f048ee7c3a84e5c09b0d1d8f13dc2488eec7f2ac64
+Description:  Global attributes and flags for Kamailio5
+
+Package: kamailio5-mod-uid-uri-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7781
+Filename: kamailio5-mod-uid-uri-db_5.3.3-3_mips64_octeon3.ipk
+Size: 8585
+SHA256sum: 3d1be6ecc1df3dc614386f0350cd599a08e100881d0f939ede85490ad946892c
+Description:  Database URI operations for Kamailio5
+
+Package: kamailio5-mod-uri-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9281
+Filename: kamailio5-mod-uri-db_5.3.3-3_mips64_octeon3.ipk
+Size: 10059
+SHA256sum: f21f2021a60aa14203711a4b8ee8044904c81f2e2617f2716ed09452ef62d409
+Description:  Database-backend SIP URI checking for Kamailio5
+
+Package: kamailio5-mod-userblacklist
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libtrie
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14234
+Filename: kamailio5-mod-userblacklist_5.3.3-3_mips64_octeon3.ipk
+Size: 14989
+SHA256sum: 91ba65933c3bde0f82561d0518ddc852d458fa4c0c7bc6ae0c083e13864e933f
+Description:  User blacklists for Kamailio5
+
+Package: kamailio5-mod-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 65186
+Filename: kamailio5-mod-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 65922
+SHA256sum: 3904348f885322a5f785ba22b4b43b092ce772c5b1842d6d4e3156cfe89395c4
+Description:  User location for Kamailio5
+
+Package: kamailio5-mod-utils
+Version: 5.3.3-3
+Depends: libc, kamailio5, libcurl4
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21900
+Filename: kamailio5-mod-utils_5.3.3-3_mips64_octeon3.ipk
+Size: 22651
+SHA256sum: 6a4cabc3a602de90e39686deb5b4698acefb8acd6d8c98eaa54cab2ba6221136
+Description:  Misc utilities for Kamailio5
+
+Package: kamailio5-mod-uuid
+Version: 5.3.3-3
+Depends: libc, kamailio5, libuuid1
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2796
+Filename: kamailio5-mod-uuid_5.3.3-3_mips64_octeon3.ipk
+Size: 3553
+SHA256sum: 492cf327e71ea8c3140e1d7e0411f698ac99b9906cd9368d9684b67fd91f12bf
+Description:  UUID utilities for Kamailio5
+
+Package: kamailio5-mod-websocket
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm, libopenssl1.1, libunistring
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 37546
+Filename: kamailio5-mod-websocket_5.3.3-3_mips64_octeon3.ipk
+Size: 38398
+SHA256sum: 62ce106f9df6142f0a8032aa9b5181e2f2bea0133921b973b657c079f5a78a3c
+Description:  WebSocket transport layer for Kamailio5
+
+Package: kamailio5-mod-xcap-client
+Version: 5.3.3-3
+Depends: libc, kamailio5, libcurl4
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14165
+Filename: kamailio5-mod-xcap-client_5.3.3-3_mips64_octeon3.ipk
+Size: 14921
+SHA256sum: cba4373806ee19531cfe360db27c32a2e9e95261b2baec4e23dfe73536aeec90
+Description:  XCAP Client for Kamailio5
+
+Package: kamailio5-mod-xcap-server
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp, kamailio5-mod-sl
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 31313
+Filename: kamailio5-mod-xcap-server_5.3.3-3_mips64_octeon3.ipk
+Size: 32034
+SHA256sum: 8f2b6726d0c7ce0f22ec7f11553597d70a902a66f301fda19466872abc91704c
+Description:  XCAP server implementation for Kamailio5
+
+Package: kamailio5-mod-xhttp-pi
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 83104
+Filename: kamailio5-mod-xhttp-pi_5.3.3-3_mips64_octeon3.ipk
+Size: 83940
+SHA256sum: 2acb67ffd139b5554bea6d0050787ab2d523d9a6a7576ae177530aa564013fb1
+Description:  HTTP provisioning interface for Kamailio5
+
+Package: kamailio5-mod-xhttp-prom
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 47015
+Filename: kamailio5-mod-xhttp-prom_5.3.3-3_mips64_octeon3.ipk
+Size: 47676
+SHA256sum: 47955a90955212a6a8ae790d243af37bfaa52e0e5ebb4516729132baf6f38467
+Description:  Prometheus metrics for Kamailio5
+
+Package: kamailio5-mod-xhttp-rpc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20298
+Filename: kamailio5-mod-xhttp-rpc_5.3.3-3_mips64_octeon3.ipk
+Size: 21065
+SHA256sum: e40a807ecaa624e35b790a75273e29a9be5fd046f6474d2a3cfd1bd126faf20c
+Description:  RPC commands handling over HTTP for Kamailio5
+
+Package: kamailio5-mod-xhttp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13707
+Filename: kamailio5-mod-xhttp_5.3.3-3_mips64_octeon3.ipk
+Size: 14471
+SHA256sum: 20cc47c4ac1011454fb46a149040d56cc8f8f6781a3c6f910eb3410a7e3dd8c0
+Description:  Basic HTTP request handling server for Kamailio5
+
+Package: kamailio5-mod-xlog
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11307
+Filename: kamailio5-mod-xlog_5.3.3-3_mips64_octeon3.ipk
+Size: 12039
+SHA256sum: 51465c093466dda2ab2984798c2ece8ff0740d0d106a65d69764e3da6395ce20
+Description:  Advanced logger for Kamailio5
+
+Package: kamailio5-mod-xmlops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8058
+Filename: kamailio5-mod-xmlops_5.3.3-3_mips64_octeon3.ipk
+Size: 8849
+SHA256sum: 0d9121629b7e2d3fcd791de498983ac33c98f618fd437c6df6ba40fff9111488
+Description:  XML operations for Kamailio5
+
+Package: kamailio5-mod-xmlrpc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 24677
+Filename: kamailio5-mod-xmlrpc_5.3.3-3_mips64_octeon3.ipk
+Size: 25393
+SHA256sum: 7583f35b09c1b33ec3210337582eb8066d4bc026780c5c8c2ac5c872cc857cf5
+Description:  XML RPC module for Kamailio5
+
+Package: kamailio5-mod-xmpp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm, libexpat
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 37505
+Filename: kamailio5-mod-xmpp_5.3.3-3_mips64_octeon3.ipk
+Size: 38337
+SHA256sum: 0a2149a4bbff0e81f7d570818fdab52cf7b6cf219816b50f6b74d3b60ce5ee54
+Description:  SIP-to-XMPP Gateway for Kamailio5
+
+Package: kamailio5-mod-xprint
+Version: 5.3.3-3
+Depends: libc, kamailio5
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23978
+Filename: kamailio5-mod-xprint_5.3.3-3_mips64_octeon3.ipk
+Size: 24710
+SHA256sum: 8af9a5bd94afda2988ddfe18f159d9b11bd0fd66e296d2ae8ecb04f58fa52b3d
+Description:  Print messages with specifiers for Kamailio5
+
+Package: kamailio5-util-kambdb-recover
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-db-berkeley
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7377
+Filename: kamailio5-util-kambdb-recover_5.3.3-3_mips64_octeon3.ipk
+Size: 8156
+SHA256sum: c5dc1ceb6538278425456be23ea14c5eb7af4938f9057430211e734c3622d88d
+Description:  Kamailio5 Berkeley DB recovery utility
+
+Package: kamailio5
+Version: 5.3.3-3
+Depends: libc, libncurses6, libpthread, libreadline8, libxml2
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 1092259
+Filename: kamailio5_5.3.3-3_mips64_octeon3.ipk
+Size: 1092145
+SHA256sum: 7985ab5f65614160130fce781ea348756d9b902ba26df208bc2b82e70d3f4821
+Description:  Mature and flexible open source SIP server, v5.3.3
+
+Package: libctb
+Version: 0.16-2
+Depends: libc, uclibcxx
+License: LGPL
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 9864
+Filename: libctb_0.16-2_mips64_octeon3.ipk
+Size: 10627
+SHA256sum: 2e7d3a43604bc567eb151a688754a022e7244ba37a2df2a61497dc090d6aac0e
+Description:  Multiplatform library for different interfaces.
+
+Package: libiksemel
+Version: 1.4-2
+Depends: libc, libgnutls
+License: LGPL-2.1
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 20606
+Filename: libiksemel_1.4-2_mips64_octeon3.ipk
+Size: 21460
+SHA256sum: 8c3695abd22fc1cdc029b2f57c0debc430f692aab3be9f3f3a507761399dbcbe
+Description:  Iksemel is an XML parser library mainly designed for Jabber applications.
+ It provides SAX, DOM, and special Jabber stream APIs. Library is coded
+ in ANSI C except the network code (which is POSIX compatible), thus
+ highly portable.
+
+Package: libks1
+Version: 1.6.0-1
+Depends: libc, libatomic1, libopenssl1.1, libuuid1
+Provides: libks
+License: BSD-1-Clause BSD-3-Clause ISC MIT PUBLICDOMAIN twofish
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 87291
+Filename: libks1_1.6.0-1_mips64_octeon3.ipk
+Size: 88002
+SHA256sum: 172db787a2f97d3602fe5b03e38c6a15c061884c290b267437295a291108a1df
+Description:  Foundational support for SignalWire C products
+
+Package: libosip2-12
+Version: 5.1.0-1
+Depends: libc, librt
+Provides: libosip2
+License: LGPL-2.1+
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 65118
+Filename: libosip2-12_5.1.0-1_mips64_octeon3.ipk
+Size: 65708
+SHA256sum: 1a414f7470a910c36f9afa733e94c93e1b0a0459854107e9a35f9722b6ab3428
+Description:  GNU oSIP library, a Session Initiation Protocol (SIP) implementation.
+
+Package: libpj
+Version: 2.9-4
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, librt
+License: GPL-2.0
+Section: lib
+Architecture: mips64_octeon3
+Installed-Size: 65129
+Filename: libpj_2.9-4_mips64_octeon3.ipk
+Size: 65818
+SHA256sum: bf7bf3c643964a16aaa22cf5b88302cb466a0540941a14d243478ac1a8aacc04
+Description:  libpj library
+
+Package: libpjlib-util
+Version: 2.9-4
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, librt
+License: GPL-2.0
+Section: lib
+Architecture: mips64_octeon3
+Installed-Size: 65233
+Filename: libpjlib-util_2.9-4_mips64_octeon3.ipk
+Size: 65884
+SHA256sum: b0890bd733f1f8727dcb4d45f49edd5284b2a1ba45bdd654405bdd63d445f6f5
+Description:  libpjlib-util library
+
+Package: libpjnath
+Version: 2.9-4
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, librt
+License: GPL-2.0
+Section: lib
+Architecture: mips64_octeon3
+Installed-Size: 62385
+Filename: libpjnath_2.9-4_mips64_octeon3.ipk
+Size: 63094
+SHA256sum: e7f4dbf196d8f5666d95d533262ebead68903e79d8544c814a41738bfa2516d6
+Description:  libpjnath library
+
+Package: libre
+Version: 0.6.1-1
+Depends: libc, libopenssl1.1, zlib
+License: BSD-3-Clause
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 171177
+Filename: libre_0.6.1-1_mips64_octeon3.ipk
+Size: 171824
+SHA256sum: 05aab3517e2a18e0a5657070121e3466e98b02018168ad2ab1961bcd541a807a
+Description:  Generic library for real-time communications with async IO support
+
+Package: librem
+Version: 0.6.0-2
+Depends: libc, libre
+License: BSD-3-Clause
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 26639
+Filename: librem_0.6.0-2_mips64_octeon3.ipk
+Size: 27402
+SHA256sum: dbaccf158e381482bd70bb322f73b7a8879b44f0b9fc01a930f64a929bbf1f6c
+Description:  Audio and video processing media library
+
+Package: libspandsp
+Version: 0.0.6-4
+Depends: libc, libtiff5
+License: LGPL-2.1 GPL-2.0
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 289660
+Filename: libspandsp_0.0.6-4_mips64_octeon3.ipk
+Size: 288606
+SHA256sum: f35f0566c3916fca10245ea0d6198a182e52d3cb397a501bc145eb37b34b40df
+Description:  spandsp library
+
+Package: libsrtp
+Version: 1.6.0-2
+Depends: libc, libpcap1
+License: BSD-3-Clause
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 39629
+Filename: libsrtp_1.6.0-2_mips64_octeon3.ipk
+Size: 39826
+SHA256sum: 10beb17247704e57b3534b24fff42dcd7aec81cddcf87019b804de943c9ac497
+Description:  Open-source implementation of the Secure Real-time Transport
+ Protocol (SRTP) originally authored by Cisco Systems, Inc.
+ It is available under a BSD-style license.
+
+Package: miax
+Version: 1.4-2
+Depends: libc, libpthread
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 39083
+Filename: miax_1.4-2_mips64_octeon3.ipk
+Size: 39895
+SHA256sum: b462264dfe7b4ffef6505e04bd04839e3f129eacac25ba97677568186a7177ba
+Description:  miax is a console iax (asterisk) client, it can work with 
+ a soundcard as a normal voip phone, taking input/output from 
+ keyboard or analog/gsm/isdn modem.
+
+Package: pcapsipdump
+Version: 2019-10-07-151-2
+Depends: libc, uclibcxx, libpcap1
+License: GPL-2.0+
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23089
+Filename: pcapsipdump_2019-10-07-151-2_mips64_octeon3.ipk
+Size: 23884
+SHA256sum: 8871675636f82fdefe694a4d2b1959e26a64b8cafeeac1cfcb418c9241eb3432
+Description:  pcapsipdump is a tool for dumping SIP sessions (+RTP traffic, if available) to disk in a
+ fashion similar to "tcpdump -w" (format is exactly the same), but one file per sip session
+ (even if there is thousands of concurrect SIP sessions).
+
+Package: restund-mod-mysql
+Version: 0.4.12-7
+Depends: libc, restund, libmysqlclient3
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 2620
+Filename: restund-mod-mysql_0.4.12-7_mips64_octeon3.ipk
+Size: 3387
+SHA256sum: 489d32c8dd869b6661ed7101ff50b2a9a5a305b957bb1082b979305f2243e7f7
+Description:  restund MySQL database backend module
+
+Package: restund
+Version: 0.4.12-7
+Depends: libc, libre
+License: BSD-3-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 29344
+Filename: restund_0.4.12-7_mips64_octeon3.ipk
+Size: 30182
+SHA256sum: 8c30cbfb74c82a4b6b865f8cb3326c280b61f4f2cea993c454d8124eab86557d
+Description:  Modular STUN/TURN server
+
+Package: rtpengine-no-transcode
+Version: mr8.3.1.4-3
+Depends: libc, glib2, json-glib, libevent2-7, libevent2-pthreads7, libhiredis, libip4tc2, libopenssl1.1, libpcap1, libpcre, xmlrpc-c-client, zlib, libip6tc2
+Conflicts: rtpengine
+License: GPL-3.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 185428
+Filename: rtpengine-no-transcode_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 185779
+SHA256sum: 477cca77e1210aec75042bf19d3f1327cb4e5a73845908f049081283b3a9411c
+Description:  The Sipwise NGCP rtpengine is a proxy for RTP traffic and other UDP
+ based media traffic. It's meant to be used with the Kamailio SIP proxy
+ and forms a drop-in replacement for any of the other available RTP and
+ media proxies.
+ 
+ This package comes without transcoding support.
+ 
+ Please consider installing kmod-ipt-rtpengine.
+ 
+
+Package: rtpengine-recording
+Version: mr8.3.1.4-3
+Depends: libc, glib2, libffmpeg-full, libmariadb3, libopenssl1.1
+License: GPL-3.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 50421
+Filename: rtpengine-recording_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 51066
+SHA256sum: e42d9ab39388f0283ad3b853db24a794f22aa8c05a97fd010942248fcae8867e
+Description:  Sipwise RTP Recording Daemon
+
+Package: rtpengine
+Version: mr8.3.1.4-3
+Depends: libc, glib2, json-glib, libevent2-7, libevent2-pthreads7, libhiredis, libip4tc2, libopenssl1.1, libpcap1, libpcre, xmlrpc-c-client, zlib, bcg729, libffmpeg-full, libmariadb3, libspandsp, libip6tc2
+License: GPL-3.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 213548
+Filename: rtpengine_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 213590
+SHA256sum: decd2dd078019bb451f12185c435f8a5e021cc2e755551b907655ffacd46af7f
+Description:  The Sipwise NGCP rtpengine is a proxy for RTP traffic and other UDP
+ based media traffic. It's meant to be used with the Kamailio SIP proxy
+ and forms a drop-in replacement for any of the other available RTP and
+ media proxies.
+ 
+ Please consider installing kmod-ipt-rtpengine.
+ 
+
+Package: rtpproxy-mod-acct-csv
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, rtpproxy
+License: BSD-2-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 3654
+Filename: rtpproxy-mod-acct-csv_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 4406
+SHA256sum: 080da834cedd105080638fa98c3ba2b43952c7d5a1b79bf626bb81f691970705
+Description:  RTPproxy CSV accounting module
+
+Package: rtpproxy-mod-acct-rtcp-hep
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, rtpproxy
+License: BSD-2-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7019
+Filename: rtpproxy-mod-acct-rtcp-hep_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 7812
+SHA256sum: 75b0d907ac2b87f65b0413f2df8575747a1620da1c67b9f60c10d9de0ba87b6d
+Description:  RTPproxy RTCP HEP accounting module
+
+Package: rtpproxy-util-extractaudio
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, rtpproxy, bcg729, libsndfile, libsrtp2
+License: BSD-2-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 22556
+Filename: rtpproxy-util-extractaudio_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 23065
+SHA256sum: 0629e5ec9fe9f6e2fa9fbd6f307b38f8bfd8b9dd34edd8ea61e96f77d674f0b9
+Description:  RTPproxy extractaudio utility
+
+Package: rtpproxy-util-makeann
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, rtpproxy, bcg729
+License: BSD-2-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5492
+Filename: rtpproxy-util-makeann_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 6236
+SHA256sum: 36345ae0ea8f57458faf2192e85ef7ae1c3d4f7eeb48a59a9dd61ff3a841340b
+Description:  RTPproxy makeann utility
+
+Package: rtpproxy
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, libatomic1, libpthread, librt
+License: BSD-2-Clause
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 113114
+Filename: rtpproxy_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 114073
+SHA256sum: e49fd63bba88200f9e8d353c49f61f8d09853da9f2fdd405efac1222b356f5e1
+Description:  RTP (Realtime Transport Protocol) proxy
+
+Package: signalwire-client-c1
+Version: 1.3.0-1
+Depends: libc, libatomic1, libks1, libopenssl1.1
+Provides: signalwire-client-c
+License: MIT
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 50868
+Filename: signalwire-client-c1_1.3.0-1_mips64_octeon3.ipk
+Size: 51493
+SHA256sum: f87de62fdbbd52820b0994eedcf18a9aceb4769409ff15694264b30a97c775df
+Description:  SignalWire C client library
+
+Package: sipgrep
+Version: 2019-06-27-1cc00079-2
+Depends: libc, libpcap1, libpcre
+License: GPL-3.0
+Section: utils
+Architecture: mips64_octeon3
+Installed-Size: 26473
+Filename: sipgrep_2019-06-27-1cc00079-2_mips64_octeon3.ipk
+Size: 27207
+SHA256sum: a3af27d2b0559418bb659e3a1db0fde9fcffe78a70cbf6877e72880b254b8c72
+Description:  Powerful pcap-aware command line tool to sniff, capture, display and
+ troubleshoot SIP signaling over IP networks, allowing the user to
+ specify extended regular expressions matching against SIP headers.
+
+Package: sipp
+Version: 3.6.0-1
+Depends: libc, uclibcxx, libncurses6, libpthread
+License: GPL-2.0+ BSD-3-Clause Zlib
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 181877
+Filename: sipp_3.6.0-1_mips64_octeon3.ipk
+Size: 182346
+SHA256sum: 3da9c5500669c40d43fd074b170e8e54f607c62703e491e514f5873c448c2d66
+Description:  SIPp is a free Open Source test tool / traffic generator for the SIP
+ protocol. It includes a few basic SipStone user agent scenarios (UAC and
+ UAS) and establishes and releases multiple calls with the INVITE and BYE
+ methods.
+
+Package: sngrep
+Version: 2019-12-02-564ad926-1
+Depends: libc, libncursesw6, libopenssl1.1, libpcap1, libpcre
+License: GPL-3.0+
+Section: utils
+Architecture: mips64_octeon3
+Installed-Size: 78695
+Filename: sngrep_2019-12-02-564ad926-1_mips64_octeon3.ipk
+Size: 79403
+SHA256sum: 8cc7a118982c18ddc163c852d6b52b16a6128064887d0aec751b0a5285f13155
+Description:  sngrep is a tool for displaying SIP calls message flows from terminal.
+ 
+ It supports live capture to display realtime SIP packets and can also be
+ used as PCAP viewer.
+
+Package: yate-mod-accfile
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7822
+Filename: yate-mod-accfile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8659
+SHA256sum: 6d0cf8a6d10fff735f81da5c4269b4539cc6b44e398cfb9fe5b595266d53a145
+Description:  SIP or H.323 client (from file) module for yate
+
+Package: yate-mod-alsachan
+Version: 6.1.0-1-2
+Depends: libc, yate, alsa-lib
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11906
+Filename: yate-mod-alsachan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12629
+SHA256sum: 8ea0b8d80654e8711aecfb25d1334999872f3dd2127f8d13c7678e1fd27fb32c
+Description:  ALSA Sound Channel module for yate
+
+Package: yate-mod-analog
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 31795
+Filename: yate-mod-analog_6.1.0-1-2_mips64_octeon3.ipk
+Size: 32606
+SHA256sum: 3b881c95a3e5cb1d6647772eb7bd4b5a9284b4a900b3b794ac620220810fcc83
+Description:  Analog (e.g. POTS) Channel module for yate
+
+Package: yate-mod-analogdetect
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18478
+Filename: yate-mod-analogdetect_6.1.0-1-2_mips64_octeon3.ipk
+Size: 19233
+SHA256sum: 00b9917b173788ae376830681c971bc02d5a6833865bf9a67bd2baec7b39bd9b
+Description:  Analog Data Detector module for yate
+
+Package: yate-mod-analyzer
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12415
+Filename: yate-mod-analyzer_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13174
+SHA256sum: 151ad56094c70713fcbd2b31d6085758e637e9f582385d2b9b08898559f316be
+Description:  Test Call Generator and AQ Analyzer module for yate
+
+Package: yate-mod-cache
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21407
+Filename: yate-mod-cache_6.1.0-1-2_mips64_octeon3.ipk
+Size: 22192
+SHA256sum: 150a369737f72d01e0d509e9bb74cb74ef537fd15019520d834d6e6506356f6c
+Description:  CNAM and LNP memory caches module for yate
+
+Package: yate-mod-callcounters
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6167
+Filename: yate-mod-callcounters_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7016
+SHA256sum: f63f678f4425794f33be3007771129c0d9a8a2f4b2fd12e2120eb11e87222205
+Description:  Count Active Call Legs module for yate
+
+Package: yate-mod-callfork
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 13732
+Filename: yate-mod-callfork_6.1.0-1-2_mips64_octeon3.ipk
+Size: 14513
+SHA256sum: 63a11d06a6e51da16fa07bde2067c9a5b11507b9eeecc832750cc532c40d9338
+Description:  Call Forker module for yate
+
+Package: yate-mod-callgen
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12353
+Filename: yate-mod-callgen_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13109
+SHA256sum: a2a222967ed61461c9370ea52b24102309592b153612c599132139bbc8517db7
+Description:  Call Generator module for yate
+
+Package: yate-mod-camel-map
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 102338
+Filename: yate-mod-camel-map_6.1.0-1-2_mips64_octeon3.ipk
+Size: 102136
+SHA256sum: a056d25282db4fb7a033f8c2ab6b0df76c72b85caa74ca1622218f8de2ae938c
+Description:  MAP/CAMEL TCAP <-> XML translators module for yate
+
+Package: yate-mod-ccongestion
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5724
+Filename: yate-mod-ccongestion_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6547
+SHA256sum: 81a52c4d9734b44bbd8d411be1d97b2f345a11e31ff14366bda834f4936e519a
+Description:  Accept Status from Installed Engine Monitors module for yate
+
+Package: yate-mod-cdrbuild
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14996
+Filename: yate-mod-cdrbuild_6.1.0-1-2_mips64_octeon3.ipk
+Size: 15759
+SHA256sum: 227642e0a171031b9ac351978c609b8a7a57feba2d5f42cf7eb96bf6789f55a9
+Description:  Call Detail Record Builder module for yate
+
+Package: yate-mod-cdrcombine
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6250
+Filename: yate-mod-cdrcombine_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7064
+SHA256sum: 45a7396869009446df5d8720278b5d73b75658b994c7dc04ae9e552b4ee3d30a
+Description:  Call Detail Records per call instead of per call leg module for yate
+
+Package: yate-mod-cdrfile
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5401
+Filename: yate-mod-cdrfile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6175
+SHA256sum: ea43198ea47e99d464b2033196d8258759a5ed8eb26a843aefcd89b129f27382
+Description:  Call Detail Record to File module for yate
+
+Package: yate-mod-ciscosm
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21555
+Filename: yate-mod-ciscosm_6.1.0-1-2_mips64_octeon3.ipk
+Size: 22211
+SHA256sum: 1851f870d09f5134664aa3dcc39a83ed1c913325f678adfb6c66ef765b0b8a1d
+Description:  SS7 Support module for yate
+
+Package: yate-mod-clustering
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6869
+Filename: yate-mod-clustering_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7709
+SHA256sum: 037df4a9769c3a802c914eb37b01c83288b2830b1f58f2b0d6bb76ab35e48440
+Description:  Clustering Server Support module for yate
+
+Package: yate-mod-conference
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18056
+Filename: yate-mod-conference_6.1.0-1-2_mips64_octeon3.ipk
+Size: 18819
+SHA256sum: c77410d8148b72020f1a301ea5d6a765f70f6f4467b16b960561e350760b4386
+Description:  Conference Room Mixer module for yate
+
+Package: yate-mod-cpuload
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11818
+Filename: yate-mod-cpuload_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12631
+SHA256sum: 3912c85cbddaf875fa7ca024afd292e99274ffecf48600a06afeae75f112d018
+Description:  Monitor CPU load and Inform Yate module for yate
+
+Package: yate-mod-dbpbx
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9328
+Filename: yate-mod-dbpbx_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10155
+SHA256sum: 55fb584004164f6e6194cc717a5496d2f69dff23547bd586352c9fa276edacf3
+Description:  PBX IVR and Multi-routing from Database module for yate
+
+Package: yate-mod-dbwave
+Version: 6.1.0-1-2
+Depends: libc, yate, yate-mod-wavefile
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5575
+Filename: yate-mod-dbwave_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6314
+SHA256sum: 33c8441be63b0217f6d6ce0ec5ba60fa2b4bd31897b0bd844e208f9ec8f4dfca
+Description:  Wav Media for DB Storage module for yate
+
+Package: yate-mod-dumbchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5630
+Filename: yate-mod-dumbchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6352
+SHA256sum: d5ab776cd61590c8b274195c2a20eb53f7046ea0b8ee2fc06083b3529cc82971
+Description:  Dummy Channel module for yate
+
+Package: yate-mod-enumroute
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7657
+Filename: yate-mod-enumroute_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8490
+SHA256sum: 85a2fd06171c23e4122a7461a81439dd9978eb05cdc5f09a7398a02dda60b70a
+Description:  ENUM Routing module for yate
+
+Package: yate-mod-eventlogs
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5533
+Filename: yate-mod-eventlogs_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6313
+SHA256sum: 3989ecefffbddf7c4bfbbcc321fb7848b3ae0d67e6016b53a7c47e70dbb70a1b
+Description:  Write events and alarms to log files module for yate
+
+Package: yate-mod-extmodule
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 26187
+Filename: yate-mod-extmodule_6.1.0-1-2_mips64_octeon3.ipk
+Size: 26941
+SHA256sum: 317032e7e838e16e208e6335cdb9ee70550b28ef666ef31831421b3253b752f9
+Description:  External Module Handler module for yate
+
+Package: yate-mod-faxchan
+Version: 6.1.0-1-2
+Depends: libc, yate, libspandsp
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14802
+Filename: yate-mod-faxchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 15483
+SHA256sum: d57492e495a5621ea47691fa7e0a5d20a4c220163a421b637fd0848bb53b1f51
+Description:  Spandsp Fax Channel module for yate
+
+Package: yate-mod-fileinfo
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12486
+Filename: yate-mod-fileinfo_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13270
+SHA256sum: 83f4cc969117a136c9fe53e92de69293538dcea3b28658908be2c2b10a972bd9
+Description:  File Info Holder module for yate
+
+Package: yate-mod-filetransfer
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 19373
+Filename: yate-mod-filetransfer_6.1.0-1-2_mips64_octeon3.ipk
+Size: 20141
+SHA256sum: 3fcf9a915fc46da1b24a9c6937a528465e8fe426e1aa09ada2a2928ae9995d07
+Description:  File Transfer Driver module for yate
+
+Package: yate-mod-gvoice
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6565
+Filename: yate-mod-gvoice_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7397
+SHA256sum: 62e26f2a08c975d5d6febdb684b76fea2fd1e544f71d85dbe0a0850876663b3b
+Description:  Google Voice support module for yate
+
+Package: yate-mod-heartbeat
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7985
+Filename: yate-mod-heartbeat_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8828
+SHA256sum: 674c19c2f9a911efd656ed1c49357706817ce4b9357e85388c3483dc619b1045
+Description:  Linux-HA compatible heartbeat module for yate
+
+Package: yate-mod-ilbccodec
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 33557
+Filename: yate-mod-ilbccodec_6.1.0-1-2_mips64_octeon3.ipk
+Size: 34326
+SHA256sum: dd4e164158fe956ca986e860afc29e1a754b9f8a7d61f712e84c95da7345e316
+Description:  iLBC Codec module for yate
+
+Package: yate-mod-ilbcwebrtc
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 39330
+Filename: yate-mod-ilbcwebrtc_6.1.0-1-2_mips64_octeon3.ipk
+Size: 40119
+SHA256sum: e934d7e76fe39df72f21e4e17ef3a07f53abc7bb131cb24e71c6d64316450df8
+Description:  iLBC Codec from the WebRTC project module for yate
+
+Package: yate-mod-isaccodec
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 76865
+Filename: yate-mod-isaccodec_6.1.0-1-2_mips64_octeon3.ipk
+Size: 77052
+SHA256sum: 394dee2143e11894c96eb6a8857aab1e176b7822b6a65b9c41f3b2b8ef668402
+Description:  internet Speech Audio Codec module for yate
+
+Package: yate-mod-isupmangler
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12092
+Filename: yate-mod-isupmangler_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12915
+SHA256sum: ad363d8d775942017e10e42777fa5df3e631e574da4a3a19dd982bf96d2e60e9
+Description:  ISUP parameter mangling in a STP module for yate
+
+Package: yate-mod-jabberclient
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 42355
+Filename: yate-mod-jabberclient_6.1.0-1-2_mips64_octeon3.ipk
+Size: 43141
+SHA256sum: c7ab4f9d822f84075f9c0d41ab7552d3c0a261a9e76fecce45b9d23a9f5240ef
+Description:  Jabber Client module for yate
+
+Package: yate-mod-jabberserver
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 52221
+Filename: yate-mod-jabberserver_6.1.0-1-2_mips64_octeon3.ipk
+Size: 53006
+SHA256sum: 8abe85e42d49bf16f0955800282da8ed073106723d51f756f57c77e8b9a17ab9
+Description:  Jabber Server module for yate
+
+Package: yate-mod-javascript
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 62942
+Filename: yate-mod-javascript_6.1.0-1-2_mips64_octeon3.ipk
+Size: 63701
+SHA256sum: fe82cb505638aa5c874c7ffa613d84923c4b5d7ce52f69bd14a7a5381e5231ed
+Description:  Routing using the embedded Javascript language module for yate
+
+Package: yate-mod-jbfeatures
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 14927
+Filename: yate-mod-jbfeatures_6.1.0-1-2_mips64_octeon3.ipk
+Size: 15688
+SHA256sum: 3d69b2f040c402e11b57911774c5b43e72c9443e90f6c11cc7847e2922da38f8
+Description:  Jabber Server Features module for yate
+
+Package: yate-mod-lateroute
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 5722
+Filename: yate-mod-lateroute_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6484
+SHA256sum: 5222fa86893d9df990d9e4bc2f7c43abd3ddf3e391989a05067c7550af2900bd
+Description:  Last Chance Routing module for yate
+
+Package: yate-mod-mgcpca
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 51100
+Filename: yate-mod-mgcpca_6.1.0-1-2_mips64_octeon3.ipk
+Size: 51921
+SHA256sum: 82fe97b496eee04c10ec5d24a5fef64acc17ddab65ba4792ddba6ec719b2c090
+Description:  Media Gateway Control Protocol Agent module for yate
+
+Package: yate-mod-mgcpgw
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 35626
+Filename: yate-mod-mgcpgw_6.1.0-1-2_mips64_octeon3.ipk
+Size: 36453
+SHA256sum: 223f39c17950e15647c14116547c6b6de7134528cb9d05c2d1e08b86df4134a2
+Description:  Media Gateway Control Protocol Gateway module for yate
+
+Package: yate-mod-moh
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10091
+Filename: yate-mod-moh_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10891
+SHA256sum: 4dd4423dfeba27e79ba370efb64997d8d9d8887b44b80f28fd806dc709b0a172
+Description:  On Hold (music) Generator module for yate
+
+Package: yate-mod-monitoring
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 32352
+Filename: yate-mod-monitoring_6.1.0-1-2_mips64_octeon3.ipk
+Size: 32670
+SHA256sum: 368b1a465a12bb5268dff006f5c8609e554018ca7d8aff3c624576e72cf3b9a8
+Description:  Monitoring/gathering Information module for yate
+
+Package: yate-mod-mrcpspeech
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8364
+Filename: yate-mod-mrcpspeech_6.1.0-1-2_mips64_octeon3.ipk
+Size: 9141
+SHA256sum: 5a225c9fc74e57789838e0d23587441cbcb1219a1027bf4fc7906f4193fd66de
+Description:  MRCP v2 Voice/Tone Detector and Synthesizer module for yate
+
+Package: yate-mod-msgsniff
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6330
+Filename: yate-mod-msgsniff_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7131
+SHA256sum: 23895050e72d5fb593da1eaadfbcba77c9ed6d281274b31cf78ceced726aff50
+Description:  Sample Message Sniffer module for yate
+
+Package: yate-mod-mux
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12567
+Filename: yate-mod-mux_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13356
+SHA256sum: a954effe8c302c43b286d54ee17bef00433f1b18b9d10e4c13141fb307e8599c
+Description:  Data Multiplexor module for yate
+
+Package: yate-mod-mysqldb
+Version: 6.1.0-1-2
+Depends: libc, yate, libmysqlclient-r3
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12016
+Filename: yate-mod-mysqldb_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12822
+SHA256sum: 3c72df170be45c350b0a4044dfb54ac6ab86fa8853fa5b090bb08d44573ba2ba
+Description:  MySQL Backend DB module for yate
+
+Package: yate-mod-openssl
+Version: 6.1.0-1-2
+Depends: libc, yate, libopenssl1.1
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 12730
+Filename: yate-mod-openssl_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13507
+SHA256sum: c1b35ff2c2cd6ed1a74b564f332fdda33d79448a31ef0a5463de12db32ebb71e
+Description:  Encrypted transport (OpenSSL) module for yate
+
+Package: yate-mod-osschan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10475
+Filename: yate-mod-osschan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11240
+SHA256sum: 47ecaa8c50b93ed880fc3caf49c4fb31005ec2a8419cb3819326acccb139219f
+Description:  OSS Sound Channel module for yate
+
+Package: yate-mod-park
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6129
+Filename: yate-mod-park_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6875
+SHA256sum: 106b0fff8018f7c8f21536cc5129d0824e92c3c5bee9a5f0673b77e353d698c8
+Description:  Call Parking module for yate
+
+Package: yate-mod-pbx
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 6772
+Filename: yate-mod-pbx_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7572
+SHA256sum: b1c819ff44a5841e27a37f10d0167a133776ace38680d846d311df7d13827e58
+Description:  PBX Message Handlers module for yate
+
+Package: yate-mod-pbxassist
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21207
+Filename: yate-mod-pbxassist_6.1.0-1-2_mips64_octeon3.ipk
+Size: 21976
+SHA256sum: d8254945e85c1fc40a7e27d7db6d4f809a0f3c93c247661ba375a24ac8bb35ab
+Description:  Full featured PBX and IVR module for yate
+
+Package: yate-mod-pgsqldb
+Version: 6.1.0-1-2
+Depends: libc, yate, libpq
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11100
+Filename: yate-mod-pgsqldb_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11834
+SHA256sum: 964e25933a343c7737d1f2e0e82aff28c88353ea8e497a25258522952c3ef47f
+Description:  PostgrestSQL Backend DB module for yate
+
+Package: yate-mod-presence
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11297
+Filename: yate-mod-presence_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12062
+SHA256sum: 9f0edebc318cf06589fb1a7438487aa032ad25ac4d0c00bccbb670e664d30bc1
+Description:  Presence module for yate
+
+Package: yate-mod-queues
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11913
+Filename: yate-mod-queues_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12691
+SHA256sum: ffb46f276b6f930fdf504ad4b2a0cd8dba50f005f678d47ed0efe73a2bf7b676
+Description:  Call Distribution and Queues from Database module for yate
+
+Package: yate-mod-queuesnotify
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11504
+Filename: yate-mod-queuesnotify_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12290
+SHA256sum: 1d67b18789203ac503250dba2f4eff5473cd189a827aa8fcea5c7e56cc05b902
+Description:  Notify when queued call status changes module for yate
+
+Package: yate-mod-regexroute
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 19645
+Filename: yate-mod-regexroute_6.1.0-1-2_mips64_octeon3.ipk
+Size: 20476
+SHA256sum: f8af5a51f45726934296e502e16506b71980a9f59d64225853e1763b31d86eaf
+Description:  Regular Expression Based Routing module for yate
+
+Package: yate-mod-regfile
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9980
+Filename: yate-mod-regfile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10785
+SHA256sum: f897594ac7af336746aa12506fe143674767fbffd1f5cb8e5c71f8e84d27eb32
+Description:  Registration based on users in file module for yate
+
+Package: yate-mod-register
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 18061
+Filename: yate-mod-register_6.1.0-1-2_mips64_octeon3.ipk
+Size: 18760
+SHA256sum: 4dcd26a45d97f804b9c35a0b4a194616404d6074b0dbcc5cf36fb0bd0aa6d712
+Description:  Call Detail Record to a database module for yate
+
+Package: yate-mod-rmanager
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23715
+Filename: yate-mod-rmanager_6.1.0-1-2_mips64_octeon3.ipk
+Size: 24450
+SHA256sum: 2e59c2ea01c39bdf1221a4067839ca56878d88504069eb123cb9d234a27437ca
+Description:  Yate Remote Management module for yate
+
+Package: yate-mod-sigtransport
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20530
+Filename: yate-mod-sigtransport_6.1.0-1-2_mips64_octeon3.ipk
+Size: 21305
+SHA256sum: 50df707ed30bc4ac17a1bf93069570749f765f49943e753092f9d9c2afbfe2e7
+Description:  SIGTRAN (SS7 over IP) connection provider module for yate
+
+Package: yate-mod-sip-cnam-lnp
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9715
+Filename: yate-mod-sip-cnam-lnp_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10563
+SHA256sum: 14cf4b35d38f1021aef5b457a9b2ea53ac835180d1c70960b252bf43d5f7a695
+Description:  Query CNAM and LNP databases using SIP INVITE module for yate
+
+Package: yate-mod-sipfeatures
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 10185
+Filename: yate-mod-sipfeatures_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10966
+SHA256sum: f18bd9da43de169e5387c81aaa434587f393078cfd026940163c21f10b789c99
+Description:  SIP Features (SUBSCRIBE/NOTIFY) module for yate
+
+Package: yate-mod-sqlitedb
+Version: 6.1.0-1-2
+Depends: libc, yate, libsqlite3-0
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11098
+Filename: yate-mod-sqlitedb_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11905
+SHA256sum: eb66f7c16556a86f4f138bcfe02d873e7c80764188cd124d7778d78712e370ac
+Description:  SQLite Support module for yate
+
+Package: yate-mod-ss7-lnp-ansi
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 23070
+Filename: yate-mod-ss7-lnp-ansi_6.1.0-1-2_mips64_octeon3.ipk
+Size: 23777
+SHA256sum: a165ae706f4571fc5a42dad8f5d57490a20bf339da64b6a4df74211dd86f5a9d
+Description:  Query LNP Databases module for yate
+
+Package: yate-mod-subscription
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 25966
+Filename: yate-mod-subscription_6.1.0-1-2_mips64_octeon3.ipk
+Size: 26715
+SHA256sum: c06c464992d100dcc415d463e46fdf5bdb7aa808eb4cc729d18ae75bb079475f
+Description:  Subcription handler and presence notifier module for yate
+
+Package: yate-mod-tonedetect
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9620
+Filename: yate-mod-tonedetect_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10379
+SHA256sum: 473231a9e97bbd4a21854bc24e8f93d1955cdb0f8755770f8c928e30e1972ee6
+Description:  Detectors for Various Tones module for yate
+
+Package: yate-mod-tonegen
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 20773
+Filename: yate-mod-tonegen_6.1.0-1-2_mips64_octeon3.ipk
+Size: 21501
+SHA256sum: 8853acf53fe7e28d851b8661558943a6f46fce1b50460fed8f70d28874cbfa4f
+Description:  Tones Generator module for yate
+
+Package: yate-mod-users
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 8636
+Filename: yate-mod-users_6.1.0-1-2_mips64_octeon3.ipk
+Size: 9425
+SHA256sum: f92d602be5905eac9aa08aa56e8bfea3c421f3a8778e61c33536905013e6f1c4
+Description:  Users module for yate
+
+Package: yate-mod-wavefile
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 17980
+Filename: yate-mod-wavefile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 18709
+SHA256sum: 7076ad5fa77f1a14b8ac7f1077ea6bcb81624dd339f0a063b1a9b3457fdeb836
+Description:  Wav file Record and Playback module for yate
+
+Package: yate-mod-yiaxchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 78361
+Filename: yate-mod-yiaxchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 79022
+SHA256sum: f86bf7227ff3da36a95cf27a7378b3e53bbefe0fd134d9e8a1ea718987f71587
+Description:  IAX Channel module for yate
+
+Package: yate-mod-yjinglechan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 50435
+Filename: yate-mod-yjinglechan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 51240
+SHA256sum: b37f0542d5c0b60d71f0222ca54a7d4ac79ba0acf95a884d692bbd39e99f4d95
+Description:  Jingle Channel module for yate
+
+Package: yate-mod-yradius
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 21666
+Filename: yate-mod-yradius_6.1.0-1-2_mips64_octeon3.ipk
+Size: 22000
+SHA256sum: ba55b163530ec124b0217b84bef599fd97efbe32abd5093bb7076c129a690173
+Description:  RADIUS Client module for yate
+
+Package: yate-mod-yrtpchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 46721
+Filename: yate-mod-yrtpchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 47493
+SHA256sum: 1f873c026b4e8f2957d667dbc7c657cb236ab80caa135bcfb5860dfd031d708d
+Description:  RTP Channel and Other Data Helper module for yate
+
+Package: yate-mod-ysigchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 61490
+Filename: yate-mod-ysigchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 62164
+SHA256sum: 50665bf74972559580902c7f1389de30128a25d86680d5f5243f81b7c18f8689
+Description:  SS7/ISDN Protocols - Yate Signalling Library module for yate
+
+Package: yate-mod-ysipchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 138699
+Filename: yate-mod-ysipchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 139055
+SHA256sum: 00737f3d0b111b5c7ecea26e9562872a68f324c024f284bec4d61c2102e6ab69
+Description:  SIP Channel module for yate
+
+Package: yate-mod-ysnmpagent
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 65252
+Filename: yate-mod-ysnmpagent_6.1.0-1-2_mips64_octeon3.ipk
+Size: 65736
+SHA256sum: 34a45501699f709143264b214d14c80ee9a82bdabdb4f66f7a4f28bb52a135c3
+Description:  SNMP Protocol Agent module for yate
+
+Package: yate-mod-ysockschan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 28846
+Filename: yate-mod-ysockschan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 29608
+SHA256sum: e86311590dabcda15bbfe4c2ec8b24b801b5454949558b1237583083ab112249
+Description:  SOCKS Channel module for yate
+
+Package: yate-mod-ystunchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 11041
+Filename: yate-mod-ystunchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11855
+SHA256sum: d56a7b5da89ab0f7da34ee730234631d9ead18b18c8c620b599ece3a4369826f
+Description:  STUN Support module for yate
+
+Package: yate-mod-zapcard
+Version: 6.1.0-1-2
+Depends: libc, yate, kmod-dahdi
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 30636
+Filename: yate-mod-zapcard_6.1.0-1-2_mips64_octeon3.ipk
+Size: 31374
+SHA256sum: 0eceea1f8de374a97c0cfbc27bde2cca5ec85b1e349cda3216c2eb14318e8db6
+Description:  Zaptel PRI/TDM/FXS/FXO cards module for yate
+
+Package: yate-mod-zlibcompress
+Version: 6.1.0-1-2
+Depends: libc, yate, zlib
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 7387
+Filename: yate-mod-zlibcompress_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8226
+SHA256sum: 5ee128a9f4159b0acc3bf2e2567e330626ca1a77e27587abb767ded5fb280e5a
+Description:  Zlib Compression module for yate
+
+Package: yate-scripts-perl
+Version: 6.1.0-1-2
+Depends: libc, yate, yate-mod-extmodule, perlbase-data
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 9220
+Filename: yate-scripts-perl_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10011
+SHA256sum: 3278a8a04f15adf6e26a1387bb9719be233b9be98d214cb9bd6385b72dbf9822
+Description:  Perl module for Yate
+
+Package: yate-sounds
+Version: 6.1.0-1-2
+Depends: libc, yate
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 141399
+Filename: yate-sounds_6.1.0-1-2_mips64_octeon3.ipk
+Size: 139871
+SHA256sum: d2729c41d333ef060de9f5e1bec15e6712c5c5e90fb7bf7339d98d7b917dbc36
+Description:  Sounds for Yate
+
+Package: yate
+Version: 6.1.0-1-2
+Depends: libc, libpthread, uclibcxx
+License: GPL-2.0
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 970393
+Filename: yate_6.1.0-1-2_mips64_octeon3.ipk
+Size: 967609
+SHA256sum: 1fa897ece95f3137361fdf79f4997f7f55c4122f366e0b10f108717fd53a05c5
+Description:  Yet Another Telephony Engine
+
